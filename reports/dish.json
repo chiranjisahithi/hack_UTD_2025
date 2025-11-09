@@ -1,0 +1,26 @@
+```json
+{
+  "header": {
+    "provider": "Unknown",
+    "status": "No active issues",
+    "sentiment": {"negative": 0, "neutral": 0, "positive": 0},
+    "reports": 0
+  },
+  "kpis": [
+    {"title": "Internet Issues", "value": "0%", "icon": "🌐"},
+    {"title": "Phone Issues", "value": "0%", "icon": "📞"}
+  ],
+  "outages": [],
+  "sentiment_feed": [],
+  "problem_distribution": [
+    {"label": "Internet", "percent": 0},
+    {"label": "Phone", "percent": 0}
+  ],
+  "regional": [],
+  "pain_index": 0.0,
+  "recommendations": [
+    "Enhance monitoring systems to capture new outages.",
+    "Improve data collection processes for accurate reporting."
+  ]
+}
+```

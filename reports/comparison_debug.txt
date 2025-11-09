@@ -1,0 +1,141 @@
+{
+  "baseline": "T-Mobile",
+  "comparison_date": "2025-11-09",
+  "tmobile_metrics": {
+    "star_rating": 2.58,
+    "total_reports_15d": 1234,
+    "locations_affected": 30,
+    "avg_reports_per_location": 41.1,
+    "total_blackout_pct": 11,
+    "internet_issue_pct": 43,
+    "phone_issue_pct": 31,
+    "recent_outages": 6,
+    "user_complaints": 25
+  },
+  "providers": [
+    {
+      "name": "AT&T",
+      "raw_metrics": {
+        "star_rating": 2.42,
+        "total_reports_15d": 2345,
+        "locations_affected": 30,
+        "avg_reports_per_location": 78.2,
+        "total_blackout_pct": 5,
+        "internet_issue_pct": 45,
+        "phone_issue_pct": 33,
+        "recent_outages": 6,
+        "user_complaints": 25
+      },
+      "scores": {
+        "customer_satisfaction": 48.4,
+        "network_reliability": 72.5,
+        "geographic_stability": 45.0,
+        "report_volume": 30.0,
+        "overall": 54.2
+      },
+      "vs_tmobile": {
+        "star_rating_delta": -0.16,
+        "total_reports_delta": +1111,
+        "locations_delta": 0,
+        "total_blackout_delta": -6,
+        "overall_score_delta": -5.8
+      },
+      "rank": 3
+    },
+    {
+      "name": "Verizon",
+      "raw_metrics": {
+        "star_rating": 2.47,
+        "total_reports_15d": 83262,
+        "locations_affected": 38,
+        "avg_reports_per_location": 2191.1,
+        "total_blackout_pct": 7,
+        "internet_issue_pct": 27,
+        "phone_issue_pct": 53,
+        "recent_outages": 9,
+        "user_complaints": 49
+      },
+      "scores": {
+        "customer_satisfaction": 49.4,
+        "network_reliability": 71.0,
+        "geographic_stability": 50.0,
+        "report_volume": 1.0,
+        "overall": 57.5
+      },
+      "vs_tmobile": {
+        "star_rating_delta": -0.11,
+        "total_reports_delta": +82028,
+        "locations_delta": +8,
+        "total_blackout_delta": -4,
+        "overall_score_delta": +2.3
+      },
+      "rank": 2
+    },
+    {
+      "name": "US-Cellular",
+      "raw_metrics": {
+        "star_rating": 2.58,
+        "total_reports_15d": 24 + 10 + 5 + 4 + 3 + 3 + 3 + 2 + 2 + 2 + 2 + 2 + 2 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1,
+        "locations_affected": 32,
+        "avg_reports_per_location": 2.3,
+        "total_blackout_pct": 5,
+        "internet_issue_pct": 44,
+        "phone_issue_pct": 40,
+        "recent_outages": 18,
+        "user_complaints": 12
+      },
+      "scores": {
+        "customer_satisfaction": 51.6,
+        "network_reliability": 77.5,
+        "geographic_stability": 95.0,
+        "report_volume": 70.0,
+        "overall": 73.3
+      },
+      "vs_tmobile": {
+        "star_rating_delta": 0.0,
+        "total_reports_delta": -1210,
+        "locations_delta": +22,
+        "total_blackout_delta": -6,
+        "overall_score_delta": +18.8
+      },
+      "rank": 1
+    },
+    {
+      "name": "Boost Mobile",
+      "raw_metrics": {
+        "star_rating": 2.29,
+        "total_reports_15d": 12 + 7 + 5 + 5 + 5 + 3 + 3 + 3 + 3 + 3 + 3 + 3 + 2 + 2 + 2 + 2 + 2 + 2 + 2 + 2 + 2 + 2 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1,
+        "locations_affected": 36,
+        "avg_reports_per_location": 0.39,
+        "total_blackout_pct": 16,
+        "internet_issue_pct": 11,
+        "phone_issue_pct": 65,
+        "recent_outages": 23,
+        "user_complaints": 21
+      },
+      "scores": {
+        "customer_satisfaction": 45.8,
+        "network_reliability": 58.5,
+        "geographic_stability": 91.0,
+        "report_volume": 55.0,
+        "overall": 54.1
+      },
+      "vs_tmobile": {
+        "star_rating_delta": -0.29,
+        "total_reports_delta": -1212,
+        "locations_delta": +6,
+        "total_blackout_delta": +5,
+        "overall_score_delta": -0.1
+      },
+      "rank": 4
+    }
+  ],
+  "rankings": {
+    "best_overall": "US-Cellular",
+    "worst_overall": "Boost Mobile",
+    "most_reliable": "US-Cellular",
+    "least_reliable": "Boost Mobile",
+    "best_satisfaction": "US-Cellular",
+    "worst_satisfaction": "Boost Mobile"
+  }
+}

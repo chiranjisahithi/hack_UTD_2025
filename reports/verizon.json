@@ -1,0 +1,45 @@
+{
+  "header": {
+    "provider": "Verizon",
+    "status": "Major service issues",
+    "sentiment": {"negative": 76, "neutral": 24, "positive": 0},
+    "reports": 28
+  },
+  "kpis": [
+    {"title": "Phone Issues", "value": "53%", "icon": "📞"},
+    {"title": "Internet Issues", "value": "27%", "icon": "🌐"}
+  ],
+  "outages": [
+    {"city": "Laguna Hills", "reason": "Internet"},
+    {"city": "Laurel", "reason": "E-mail"},
+    {"city": "Aldie", "reason": "Internet"},
+    {"city": "Port Lavaca", "reason": "Phone"},
+    {"city": "Broomfield", "reason": "Internet"},
+    {"city": "Toledo", "reason": "Internet"}
+  ],
+  "sentiment_feed": [
+    {"user": "Jim Samuel", "tone": "frustrated", "text": "@VZWSupport You can't even deliver good cell service. Why would anyone think you can do this?"},
+    {"user": "Michele Goncalves", "tone": "disappointed", "text": "@Verizon @verizonfios horrible customer service. Representatives lie to consumers"},
+    {"user": "Wilson", "tone": "angry", "text": "@comcast @Verizon Please help Darlington MD. Run lines through our little rural town so that we can get screwed over by a product that at least works."}
+  ],
+  "problem_distribution": [
+    {"label": "Phone", "percent": 53},
+    {"label": "Internet", "percent": 27},
+    {"label": "E-mail", "percent": 6},
+    {"label": "Phone", "percent": 3},
+    {"label": "Other", "percent": 1}
+  ],
+  "regional": [
+    {"city": "Philadelphia, PA", "severity": "high"},
+    {"city": "New York City, NY", "severity": "high"},
+    {"city": "Chicago, IL", "severity": "high"},
+    {"city": "Los Angeles, CA", "severity": "high"},
+    {"city": "Atlanta, GA", "severity": "high"},
+    {"city": "Phoenix, AZ", "severity": "medium"}
+  ],
+  "pain_index": 10.0,
+  "recommendations": [
+    "Prioritize resolving phone and internet outages in high-regression areas like Philadelphia and NYC.",
+    "Improve customer service response quality and claim resolution processes."
+  ]
+}

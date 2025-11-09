@@ -1,0 +1,34 @@
+{
+  "header": {
+    "provider": "Spectrum",
+    "status": "Major service issues",
+    "sentiment": {"negative": 82, "neutral": 15, "positive": 3},
+    "reports": 28
+  },
+  "kpis": [
+    {"title": "Internet Issues", "value": "63%", "icon": "🌐"},
+    {"title": "Wi-Fi Issues", "value": "12%", "icon": "📶"}
+  ],
+  "outages": [
+    {"city": "Orlando", "reason": "Internet"},
+    {"city": "Columbus", "reason": "Internet"}
+  ],
+  "sentiment_feed": [
+    {"user": "Saylor Moon", "tone": "frustrated", "text": "Considering switching to Starlink due to constant downtime."},
+    {"user": "Chris Shifflett", "tone": "angry", "text": "Ran 1000ft ethernet to McDonalds for usable internet!"}
+  ],
+  "problem_distribution": [
+    {"label": "Internet", "percent": 63},
+    {"label": "Wi-Fi", "percent": 12}
+  ],
+  "regional": [
+    {"city": "Dallas, TX", "severity": "high"},
+    {"city": "Los Angeles, CA", "severity": "high"},
+    {"city": "Orlando, FL", "severity": "high"}
+  ],
+  "pain_index": 10.0,
+  "recommendations": [
+    "Prioritize network stabilization in high-outage areas like Orlando and Dallas.",
+    "Improve response time for outage notifications during morning/evening peaks."
+  ]
+}

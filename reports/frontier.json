@@ -1,0 +1,37 @@
+{
+  "header": {
+    "provider": "FrontierCorp",
+    "status": "Major service issues",
+    "sentiment": {"negative": 90, "neutral": 5, "positive": 5},
+    "reports": 20
+  },
+  "kpis": [
+    {"title": "Internet Issues", "value": "72%", "icon": "🌐"},
+    {"title": "Phone Issues", "value": "9%", "icon": "📞"}
+  ],
+  "outages": [
+    {"city": "Winter Garden", "reason": "Internet"},
+    {"city": "Detroit", "reason": "Internet"},
+    {"city": "North Port", "reason": "Total Blackout"}
+  ],
+  "sentiment_feed": [
+    {"user": "C.P", "tone": "angry", "text": "SANDWICH! 3 days no internet, your automated services are a joke!"},
+    {"user": "Breezy_2G", "tone": "frustrated", "text": "3rd day of lies about service status, no real updates."}
+  ],
+  "problem_distribution": [
+    {"label": "Internet", "percent": 72},
+    {"label": "Phone", "percent": 9},
+    {"label": "Total Blackout", "percent": 8}
+  ],
+  "regional": [
+    {"city": "Tampa, FL", "severity": "high"},
+    {"city": "Dallas, TX", "severity": "high"},
+    {"city": "Sarasota, FL", "severity": "high"}
+  ],
+  "pain_index": 10.0,
+  "recommendations": [
+    "Prioritize restoring internet in high-impact areas like Tampa and Dallas.",
+    "Improve transparency with real-time outage updates and estimated resolution times.",
+    "Re-evaluate infrastructure reliability to prevent recurrence of outages."
+  ]
+}

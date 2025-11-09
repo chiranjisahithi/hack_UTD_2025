@@ -1,0 +1,35 @@
+{
+  "header": {
+    "provider": "UScellular",
+    "status": "Major service issues",
+    "sentiment": {"negative": 75, "neutral": 20, "positive": 5},
+    "reports": 12
+  },
+  "kpis": [
+    {"title": "Internet Issues", "value": "44%", "icon": "🌐"},
+    {"title": "Phone Issues", "value": "40%", "icon": "📞"}
+  ],
+  "outages": [
+    {"city": "Ankeny", "reason": "Internet"},
+    {"city": "Charlotte", "reason": "Internet"}
+  ],
+  "sentiment_feed": [
+    {"user": "Matt Swanson", "tone": "frustrated", "text": "Anybody else\u2019s @UScellular service just quit working?"},
+    {"user": "Forest Condon", "tone": "frustrated", "text": "I can't make calls either, I live in Grafton Wisconsin and the network is down."},
+    {"user": "Blake Swanson", "tone": "angry", "text": "My personal and work phones are on your network and not able to place calls."}
+  ],
+  "problem_distribution": [
+    {"label": "Internet", "percent": 44},
+    {"label": "Phone", "percent": 40}
+  ],
+  "regional": [
+    {"city": "Cedar Rapids, IA", "severity": "high"},
+    {"city": "Madison, WI", "severity": "high"}
+  ],
+  "pain_index": 7.2,
+  "recommendations": [
+    "Prioritize restoration of Internet service in Ankeny and Charlotte.",
+    "Investigate root cause of network failures in Cedar Rapids and Madison.",
+    "Enhance real-time outage communication to reduce customer frustration."
+  ]
+}

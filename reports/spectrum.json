@@ -1,0 +1,23 @@
+```json
+{
+  "header": {
+    "provider": "Unknown Provider",
+    "status": "No active issues reported",
+    "sentiment": {"negative": 0, "neutral": 0, "positive": 0},
+    "reports": 0
+  },
+  "kpis": [
+    {"title": "Internet Issues", "value": "0%", "icon": "🌐"},
+    {"title": "Phone Issues", "value": "0%", "icon": "📞"}
+  ],
+  "outages": [],
+  "sentiment_feed": [],
+  "problem_distribution": [],
+  "regional": [],
+  "pain_index": 0.0,
+  "recommendations": [
+    "Verify data sources for real-time updates.",
+    "Implement proactive monitoring to detect emerging issues."
+  ]
+}
+```

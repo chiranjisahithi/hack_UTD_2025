@@ -1,0 +1,38 @@
+{
+  "header": {
+    "provider": "AT&T",
+    "status": "Major service issues",
+    "sentiment": {"negative": 72, "neutral": 18, "positive": 10},
+    "reports": 24
+  },
+  "kpis": [
+    {"title": "Internet Issues", "value": "45%", "icon": "🌐"},
+    {"title": "Phone Issues", "value": "33%", "icon": "📞"}
+  ],
+  "outages": [
+    {"city": "Atlanta", "reason": "Internet"},
+    {"city": "Phoenix", "reason": "Internet"},
+    {"city": "Garden Grove", "reason": "Total Blackout"}
+  ],
+  "sentiment_feed": [
+    {"user": "Felicia Edmon", "tone": "frustrated", "text": "@ATT @att what didn’t feel good is being scammed..."},
+    {"user": "Chris Hansen", "tone": "angry", "text": "Minneapolis customer... ignored for months."},
+    {"user": "Holly Nichols", "tone": "stressed", "text": "two-factor verification issue unresolved for 24 hours."}
+  ],
+  "problem_distribution": [
+    {"label": "Internet", "percent": 45},
+    {"label": "Phone", "percent": 33},
+    {"label": "Wi-fi", "percent": 10}
+  ],
+  "regional": [
+    {"city": "Atlanta", "severity": "high"},
+    {"city": "Phoenix", "severity": "medium"},
+    {"city": "Garden Grove", "severity": "high"}
+  ],
+  "pain_index": 8.5,
+  "recommendations": [
+    "Prioritize immediate fixes for Atlanta and Garden Grove outages.",
+    "Improve customer support response rates during peak hours.",
+    "Address billing confusion and restore trust via transparent communication."
+  ]
+}

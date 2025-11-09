@@ -1,0 +1,34 @@
+{
+  "header": {
+    "provider": "Boost Mobile",
+    "status": "Major service issues",
+    "sentiment": {"negative": 75, "neutral": 15, "positive": 10},
+    "reports": 28
+  },
+  "kpis": [
+    {"title": "Internet Issues", "value": "11%", "icon": "🌐"},
+    {"title": "Phone Issues", "value": "65%", "icon": "📞"}
+  ],
+  "outages": [
+    {"city": "Council Bluffs", "reason": "Internet"},
+    {"city": "Suffolk", "reason": "Phone"}
+  ],
+  "sentiment_feed": [
+    {"user": "itme", "tone": "frustrated", "text": "no cell phone service since saturday... can you get me connected?"},
+    {"user": "Angie Padgett", "tone": "angry", "text": "NO PHONE SERVICE FOR 3 WEEKS... ESCALATION TEAM HASN'T CALLED ME"}
+  ],
+  "problem_distribution": [
+    {"label": "Phone", "percent": 65},
+    {"label": "Total Blackout", "percent": 16},
+    {"label": "Internet", "percent": 11}
+  ],
+  "regional": [
+    {"city": "Chicago, IL", "severity": "high"},
+    {"city": "Atlanta, GA", "severity": "medium"}
+  ],
+  "pain_index": 10.0,
+  "recommendations": [
+    "Prioritize outage resolution in Chicago and Atlanta due to high reporting volume.",
+    "Improve communication during service disruptions to reduce customer frustration."
+  ]
+}

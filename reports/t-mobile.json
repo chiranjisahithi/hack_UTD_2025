@@ -1,0 +1,241 @@
+{
+  "header": {
+    "provider": "T-Mobile",
+    "status": "major issues",
+    "status_color": "red",
+    "star_rating": 2.58,
+    "rating_count": "72,777 ratings",
+    "total_reports_24h": 6,
+    "last_updated": "2025-11-09T11:12:21-04:00"
+  },
+  "key_metrics": [
+    {
+      "title": "Star Rating",
+      "value": "2.58",
+      "icon": "⭐",
+      "trend": "down",
+      "trend_value": "-0.05%"
+    },
+    {
+      "title": "Total Reports (24h)",
+      "value": "6",
+      "icon": "📉",
+      "trend": "up",
+      "trend_value": "+300%"
+    },
+    {
+      "title": "Internet Issues",
+      "value": "44%",
+      "icon": "🌐",
+      "trend": "stable",
+      "trend_value": "±0%"
+    },
+    {
+      "title": "Pain Index",
+      "value": "10.0",
+      "icon": "🔥",
+      "trend": "declining",
+      "trend_value": "Improving slightly"
+    },
+    {
+      "title": "Negative Sentiment",
+      "value": "85%",
+      "icon": "😡",
+      "trend": "stable",
+      "trend_value": "±1%"
+    }
+  ],
+  "active_outages": [
+    {
+      "city": "Phoenix",
+      "reason": "Internet",
+      "time_ago": "5 minutes ago",
+      "severity": "high",
+      "timestamp": "2025-11-09T11:12:21-04:00"
+    },
+    {
+      "city": "Eatonville",
+      "reason": "Internet",
+      "time_ago": "21 minutes ago",
+      "severity": "high",
+      "timestamp": "2025-11-09T10:56:31-04:00"
+    },
+    {
+      "city": "Portland",
+      "reason": "Internet",
+      "time_ago": "25 minutes ago",
+      "severity": "high",
+      "timestamp": "2025-11-09T10:52:04-04:00"
+    },
+    {
+      "city": "Harrison",
+      "reason": "Internet",
+      "time_ago": "31 minutes ago",
+      "severity": "high",
+      "timestamp": "2025-11-09T10:46:22-04:00"
+    },
+    {
+      "city": "Skokie",
+      "reason": "Internet",
+      "time_ago": "32 minutes ago",
+      "severity": "high",
+      "timestamp": "2025-11-09T10:44:39-04:00"
+    },
+    {
+      "city": "Columbia",
+      "reason": "Internet",
+      "time_ago": "44 minutes ago",
+      "severity": "high",
+      "timestamp": "2025-11-09T10:33:30-04:00"
+    }
+  ],
+  "problem_distribution": [
+    {
+      "label": "Internet",
+      "percent": 44,
+      "color": "#ff0000"
+    },
+    {
+      "label": "Phone",
+      "percent": 31,
+      "color": "#0000ff"
+    },
+    {
+      "label": "Total Blackout",
+      "percent": 11,
+      "color": "#ff00ff"
+    },
+    {
+      "label": "Wi-fi",
+      "percent": 9,
+      "color": "#00ff00"
+    },
+    {
+      "label": "E-mail",
+      "percent": 3,
+      "color": "#ffff00"
+    },
+    {
+      "label": "TV",
+      "percent": 1,
+      "color": "#800080"
+    }
+  ],
+  "geographic_hotspots": [
+    {
+      "city": "Cedar Hill, TX",
+      "reports_count": 145,
+      "severity": "high",
+      "top_issue": "Internet"
+    },
+    {
+      "city": "Chicago, IL",
+      "reports_count": 141,
+      "severity": "high",
+      "top_issue": "Internet"
+    },
+    {
+      "city": "Seattle, WA",
+      "reports_count": 133,
+      "severity": "high",
+      "top_issue": "Internet"
+    },
+    {
+      "city": "Minneapolis, MN",
+      "reports_count": 119,
+      "severity": "high",
+      "top_issue": "Internet"
+    },
+    {
+      "city": "Dallas, TX",
+      "reports_count": 110,
+      "severity": "high",
+      "top_issue": "Internet"
+    }
+  ],
+  "recent_activity": [
+    {
+      "time": "5 minutes ago",
+      "city": "Phoenix",
+      "issue": "Internet",
+      "timestamp": "2025-11-09T11:12:21-04:00"
+    },
+    {
+      "time": "21 minutes ago",
+      "city": "Eatonville",
+      "issue": "Internet",
+      "timestamp": "2025-11-09T10:56:31-04:00"
+    },
+    {
+      "time": "25 minutes ago",
+      "city": "Portland",
+      "issue": "Internet",
+      "timestamp": "2025-11-09T10:52:04-04:00"
+    },
+    {
+      "time": "31 minutes ago",
+      "city": "Harrison",
+      "issue": "Internet",
+      "timestamp": "2025-11-09T10:46:22-04:00"
+    },
+    {
+      "time": "32 minutes ago",
+      "city": "Skokie",
+      "issue": "Internet",
+      "timestamp": "2025-11-09T10:44:39-04:00"
+    },
+    {
+      "time": "44 minutes ago",
+      "city": "Columbia",
+      "issue": "Internet",
+      "timestamp": "2025-11-09T10:33:30-04:00"
+    }
+  ],
+  "sentiment": {
+    "negative": 85,
+    "neutral": 0,
+    "positive": 15,
+    "samples": [
+      {
+        "user": "PurpleDragon",
+        "text": "@TMobileHelp @RJknows13 Service is out in Utah too, and the only effective way we have to contact customer support is sending a tweet? \n\nWhat a joke😐",
+        "tone": "frustrated",
+        "time_ago": "2 minutes ago"
+      },
+      {
+        "user": "Marlon Norato",
+        "text": "@nokiaindustries @TMobile Fix your **** bitxh",
+        "tone": "angry",
+        "time_ago": "5 minutes ago"
+      },
+      {
+        "user": "DustyDaddy",
+        "text": "T-Mobile being down is honestly so ******* terrible right now. How am I supposed to contact my family or anything???",
+        "tone": "angry",
+        "time_ago": "5 minutes ago"
+      },
+      {
+        "user": "Sumayya",
+        "text": "@TMobile @TMobileHelp @Delta No announcements about the current outage?!!",
+        "tone": "disappointed",
+        "time_ago": "6 minutes ago"
+      }
+    ]
+  },
+  "trend_analysis": {
+    "direction": "declining",
+    "description": "Service disruptions are decreasing after mid-afternoon peak but remain above normal baseline levels.",
+    "chart_insights": "Outage clusters at 15:00, 23:45, and 10:45 suggest cyclical vulnerabilities. Late-night outage at 23:45 warrants investigation into potential maintenance or cascading failures."
+  },
+  "critical_insights": [
+    "Internet outages constitute 44% of all reports, indicating systemic infrastructure issues.",
+    "Peak outage periods correlate with evening and nighttime usage patterns, suggesting capacity or maintenance challenges.",
+    "Customer sentiment shows 85% negative feedback, directly impacting brand perception and retention.",
+    "Geographic hotspots cluster in major metropolitan areas with high 15-day report counts (Cedar Hill, Chicago, Seattle)."
+  ],
+  "pain_index": 10.0,
+  "recommendations": [
+    "Prioritize immediate investigation into internet infrastructure failures during peak outage windows.",
+    "Implement proactive communication during outages to reduce negative sentiment and improve customer trust."
+  ]
+}

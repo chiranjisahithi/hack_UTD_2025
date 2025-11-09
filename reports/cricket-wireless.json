@@ -1,0 +1,40 @@
+{
+  "header": {
+    "provider": "Unknown Service Provider",
+    "status": "Multiple isolated incidents reported",
+    "sentiment": {"negative": 100, "neutral": 0, "positive": 0},
+    "reports": 4
+  },
+  "kpis": [
+    {"title": "Phone Issues", "value": "63%", "icon": "📞"},
+    {"title": "Internet Issues", "value": "21%", "icon": "🌐"}
+  ],
+  "outages": [
+    {"city": "Los Angeles, CA", "reason": "Phone"},
+    {"city": "Grand Junction, CO", "reason": "Phone"},
+    {"city": "Memphis, TN", "reason": "Phone"},
+    {"city": "North Royalton, OH", "reason": "Internet"},
+    {"city": "Upland, CA", "reason": "Phone"},
+    {"city": "Upland, CA", "reason": "Internet"},
+    {"city": "Spring Hill, TN", "reason": "Data"}
+  ],
+  "sentiment_samples": [
+    {"user": "Crystal Hedrick", "tone": "frustrated", "text": "My daughter got a new phone... but he can’t use his phone at all."},
+    {"user": "Carol Pagel", "tone": "angry", "text": "We just moved to AT&T and I SWORE I would never use them again."},
+    {"user": "Denny", "tone": "frustrated", "text": "Service in St Michael, Minnesota is so slow... like dial-up."},
+    {"user": "Carol Pagel", "tone": "angry", "text": "It is a shame the way Cricket is treating their elderly customers."}
+  ],
+  "problem_distribution": [
+    {"label": "Phone", "percent": 63},
+    {"label": "Internet", "percent": 21}
+  ],
+  "regional_insights": [
+    {"city": "Los Angeles, CA", "severity": "high"},
+    {"city": "Spring Hill, TN", "severity": "critical"}
+  ],
+  "pain_index": 8.2,
+  "recommendations": [
+    "Investigate root causes for Phone service issues in Los Angeles and Spring Hill.",
+    "Monitor Internet connectivity patterns in Memphis and Upland."
+  ]
+}

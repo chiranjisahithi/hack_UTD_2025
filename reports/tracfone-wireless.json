@@ -1,0 +1,40 @@
+{
+  "header": {
+    "provider": "Tracfone",
+    "status": "Major service issues",
+    "sentiment": {"negative": 78, "neutral": 20, "positive": 2},
+    "reports": 40
+  },
+  "kpis": [
+    {"title": "Phone Issues", "value": "73%", "icon": "📞"},
+    {"title": "Internet Issues", "value": "12%", "icon": "🌐"}
+  ],
+  "outages": [
+    {"city": "Lakewood", "reason": "Phone"},
+    {"city": "Nazareth", "reason": "Internet"},
+    {"city": "Philadelphia", "reason": "Total Blackout"},
+    {"city": "Windham", "reason": "Total Blackout"},
+    {"city": "Ahoskie", "reason": "Phone"}
+  ],
+  "sentiment_feed": [
+    {"user": "Constructing Postcapitalism", "tone": "frustrated", "text": "I live in a wireless dead zone and work from home..."},
+    {"user": "Celeste GENERALSTRIKE Holms", "tone": "angry", "text": "Samsung phones... internet connection are akin to 1980s cable."},
+    {"user": "Tracy Krimmer, Author", "tone": "disappointed", "text": "TracFone is crap compared to old flip phones."}
+  ],
+  "problem_distribution": [
+    {"label": "Phone", "percent": 73},
+    {"label": "Internet", "percent": 12},
+    {"label": "Total Blackout", "percent": 6}
+  ],
+  "regional": [
+    {"city": "Atlanta", "severity": "high"},
+    {"city": "San Francisco", "severity": "medium"},
+    {"city": "Fort Bragg", "severity": "high"}
+  ],
+  "pain_index": 9.8,
+  "recommendations": [
+    "Improve network infrastructure in high-severity regions like Atlanta and Fort Bragg.",
+    "Expand customer support channels for urgent complaints.",
+    "Investigate cascading failures during peak hours (13:40–19:00 EST)."
+  ]
+}
