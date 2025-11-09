@@ -1,0 +1,30 @@
+# Web frameworks
+fastapi==0.115.0
+uvicorn==0.30.6
+flask==3.0.3
+flask-cors==4.0.1
+
+# HTTP and async networking
+aiohttp==3.10.8
+requests==2.32.3
+tqdm==4.66.5
+
+# Data processing & analysis
+pandas==2.2.3
+numpy==1.26.4
+scikit-learn==1.5.2
+
+# Visualization & insights
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# NLP and AI integrations
+nltk==3.9.1
+textblob==0.18.0
+openai==1.43.0
+python-dotenv==1.0.1
+
+# Parsing & utilities
+beautifulsoup4==4.12.3
+lxml==5.2.2
+joblib==1.4.2

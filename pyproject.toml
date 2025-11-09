@@ -1,0 +1,18 @@
+[project]
+name = "utd-hack"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.14.2",
+    "cairosvg>=2.8.2",
+    "cloudscraper>=1.2.71",
+    "crawl4ai>=0.7.6",
+    "fastapi>=0.121.1",
+    "openai>=2.7.1",
+    "pillow>=12.0.0",
+    "python-dotenv>=1.2.1",
+    "uvicorn>=0.38.0",
+    "wand>=0.6.13",
+]
