@@ -1,0 +1,372 @@
+{
+  "star_rating": {
+    "current": "2.42 out of 5",
+    "count": "109,253 ratings"
+  },
+  "chart": {
+    "chart_ts": "134071635000000000",
+    "image_src": "https://itsdcdn.com/us/charts/chartsvg/740/370/134071635000000000/14580771-1F35-4CE9-8DF7-998BE5605886.svg",
+    "alt_time": "11/09/2025 12:05"
+  },
+  "most_reported_problems": [
+    {
+      "label": "Internet",
+      "percent": 45
+    },
+    {
+      "label": "Phone",
+      "percent": 33
+    },
+    {
+      "label": "Wi-fi",
+      "percent": 10
+    },
+    {
+      "label": "Total Blackout",
+      "percent": 5
+    },
+    {
+      "label": "E-mail",
+      "percent": 4
+    },
+    {
+      "label": "TV",
+      "percent": 3
+    }
+  ],
+  "latest_reports": [
+    {
+      "city": "Stafford",
+      "reason": "Phone",
+      "time_human": "5 minutes ago",
+      "time_iso": "2025-11-09T11:59:19-04:00"
+    },
+    {
+      "city": "Philadelphia",
+      "reason": "Phone",
+      "time_human": "7 minutes ago",
+      "time_iso": "2025-11-09T11:57:00-04:00"
+    },
+    {
+      "city": "Austin",
+      "reason": "Total Blackout",
+      "time_human": "12 minutes ago",
+      "time_iso": "2025-11-09T11:51:29-04:00"
+    },
+    {
+      "city": "Houston",
+      "reason": "Internet",
+      "time_human": "35 minutes ago",
+      "time_iso": "2025-11-09T11:29:05-04:00"
+    },
+    {
+      "city": "Roswell",
+      "reason": "Internet",
+      "time_human": "37 minutes ago",
+      "time_iso": "2025-11-09T11:26:28-04:00"
+    },
+    {
+      "city": "Memphis",
+      "reason": "Internet",
+      "time_human": "51 minutes ago",
+      "time_iso": "2025-11-09T11:12:34-04:00"
+    }
+  ],
+  "issues_reports": [
+    {
+      "user": "Sandra Melby-Pittman",
+      "text": "@ATT- CSR\u2019s have tried to transfer me 3 times and then disconnected me. 2 days in a row. Called back, \u201cDiamond\u201d #20828 decides she is gonna be rude and says she will transfer me to \u201cloyalty\u201d and hangs up on me. So incredibly disgusted in your service. Still have no resolution!",
+      "time_iso": "2025-11-09T11:58:38-04:00"
+    },
+    {
+      "user": "Stellar Berto and Jelly Sandwiches",
+      "text": "@ATT Why is your 5G service slower than LTE?",
+      "time_iso": "2025-11-09T11:52:33-04:00"
+    },
+    {
+      "user": "French 21 \ud83c\uddfa\ud83c\uddf8\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+      "text": "@cleekers \u2026 Uverse shows SciFi airing Keep the Home Fires Burning on 3/4.  They never air reruns of WE.  Perhaps a good sign of things to come?",
+      "time_iso": "2025-11-09T11:50:44-04:00"
+    },
+    {
+      "user": "Katrina Columbo",
+      "text": "@ATT Solve our riddle....\nWhen will we have internet service?????",
+      "time_iso": "2025-11-09T11:49:12-04:00"
+    },
+    {
+      "user": "RustyG",
+      "text": "@ATT @ATTHelp is literally the worst at billing... got my Note 20 ultra in 8/2020.. under the $1,000 for your phone gimmick (they still peddle) and have been paying for my phone every since, never a credit. mother did the same.. they did her the same way. thanks for nothing",
+      "time_iso": "2025-11-09T11:44:25-04:00"
+    },
+    {
+      "user": "Anchan Saxena",
+      "text": "@ATTHelp @ATT system is broken. This is all ridiculous from such an old trusted company. Why should I be responsible for the shortcomings in your system? Please fix this ASAP!",
+      "time_iso": "2025-11-09T11:44:21-04:00"
+    },
+    {
+      "user": "Katrina Columbo",
+      "text": "@ATTHelp \nUpdate on outage noone responding online, chat in app or here!!!",
+      "time_iso": "2025-11-09T11:43:43-04:00"
+    },
+    {
+      "user": "Lowkey",
+      "text": "I realize @ATT has discovered if they put everyone on cellphones, they can now run people out of battery before they ever talk to customer support.",
+      "time_iso": "2025-11-09T11:42:24-04:00"
+    },
+    {
+      "user": "Anchan Saxena",
+      "text": "@ATTHelp @ATT I started a new Internet connection with 1Gbps Fiber in October 2021. I was supposed to get two rewards worth $50 and $200 with that. I got the $50 reward card within a week, but never got the $200 reward. I contacted the reward live chat twice on Oct 26 and (1/4)",
+      "time_iso": "2025-11-09T11:41:00-04:00"
+    },
+    {
+      "user": "William Harpine",
+      "text": "Does @ATT have the worst customer service, or is there a worse company? Just asking.",
+      "time_iso": "2025-11-09T11:36:57-04:00"
+    },
+    {
+      "user": "Wad1690",
+      "text": "@ATTHelp Did you even read the message? No. I said real people, so you pasted an auto response. You are no more than a biological copy pasta robot. The people i msg may be real but they cannot help this and you dont care because if you tell me in a private dm, No backlash from the public",
+      "time_iso": "2025-11-09T11:36:02-04:00"
+    },
+    {
+      "user": "Resting Rich Face \ud83c\uddfa\ud83c\uddf8",
+      "text": "@ATTHelp The AT&T website customer service is pure trash!",
+      "time_iso": "2025-11-09T11:35:16-04:00"
+    },
+    {
+      "user": "Matty York",
+      "text": "@ATT was suppose to unlock my phone today, I met all requirements, now they aren't unlocking it \n\nfrauds, out to hurt the little guy, I'll never use them again",
+      "time_iso": "2025-11-09T11:34:29-04:00"
+    },
+    {
+      "user": "Wad1690",
+      "text": "@ATTHelp Oh look it went from dm us fir help to shut up we sent you a meaasge because we do not read or listen to our customers. I wonder if a real person will ever actually reply. My guess is that this rudeness continues without end.",
+      "time_iso": "2025-11-09T11:30:26-04:00"
+    },
+    {
+      "user": "ToryMBlue",
+      "text": "@ATT your fraud department is CLOSED?! HOLY ****!",
+      "time_iso": "2025-11-09T11:29:57-04:00"
+    },
+    {
+      "user": "OPERATION GET CHOSE\ud83c\udf39",
+      "text": "My reception been **** all damn day @ATT",
+      "time_iso": "2025-11-09T11:28:55-04:00"
+    },
+    {
+      "user": "Ryan Blackwolf",
+      "text": "@kaorrosi @ATT yall need to fix your ****.",
+      "time_iso": "2025-11-09T11:28:12-04:00"
+    },
+    {
+      "user": "Katrina Columbo",
+      "text": "@ATTHelp \nWhat the hell is going on in San Antonio \nNo help I dont need a link to the :&%&&$-OUTAGE MAP I KNOW THERE IS A F***** OUTAGE !!!\nUSELESS CUSTOMER SERVICE",
+      "time_iso": "2025-11-09T11:27:31-04:00"
+    },
+    {
+      "user": "Katrina Columbo",
+      "text": "@ATTHelp @ScottinBayV I dm you all NO RESPONSE\nJUST FIX IT",
+      "time_iso": "2025-11-09T11:27:27-04:00"
+    },
+    {
+      "user": "nikki mclean",
+      "text": "@ATTHelp Internet service had been out almost 48 hours. Mangers has no idea when 75253 area will be back to up and running .. can you give me some insight?",
+      "time_iso": "2025-11-09T11:23:17-04:00"
+    },
+    {
+      "user": "Sandy Cabrera",
+      "text": "Just spend an hour on the phone with @ATT and they are hustling me. This is ridiculous behavior for a loyal client who pays you for internet and several wireless devises. Completely being taken advantage of and no one can seem to resolve the problem.",
+      "time_iso": "2025-11-09T11:21:05-04:00"
+    },
+    {
+      "user": "DJ El Prezidente",
+      "text": "@ATT I have an issue w/ att fiber tech setup my modem but neglected to connect att digi phone to the jacks in my house now att wants me to pay them UNACCEPTABLE",
+      "time_iso": "2025-11-09T11:18:54-04:00"
+    },
+    {
+      "user": "Katrina Columbo",
+      "text": "@ATT Your sending this **** OUT WITHOUT HELPING US HERE???\nNO INTERNET FOR 48 HRS",
+      "time_iso": "2025-11-09T11:17:52-04:00"
+    },
+    {
+      "user": "Cole Parsons",
+      "text": "Gotta love @ATT  - charge you for stuff you never asked for then hang up after 30 minutes on hold. Must be nice to be so big that you don\u2019t have to care about taking care of your customers.",
+      "time_iso": "2025-11-09T11:16:08-04:00"
+    },
+    {
+      "user": "ToryMBlue",
+      "text": "@ATT  You mother *******, second time you have allowed someone to take over my phone, even with my security codes preventing this. **** you and your entire network, your stores are full of criminals!",
+      "time_iso": "2025-11-09T11:12:38-04:00"
+    },
+    {
+      "user": "AdamPohh",
+      "text": "6 months trying to fix this **** paying 111 dollars a month for 1mbps and calling off of work for tech not to show multiple times in a row. Then they wanna charge me to show up now @att clowns",
+      "time_iso": "2025-11-09T11:11:55-04:00"
+    },
+    {
+      "user": "Axs Reddy",
+      "text": "@ATT Solve the riddle: fix my slow internet",
+      "time_iso": "2025-11-09T11:08:53-04:00"
+    },
+    {
+      "user": "Kate Wright",
+      "text": "After this plan is paid off,\nI\u2019m never using @ATTBusiness again. Been a customer for about 14 years and have never dealt with insanity such as this disorganization and lack of customer service. Way to lose a long time customer",
+      "time_iso": "2025-11-09T11:08:20-04:00"
+    },
+    {
+      "user": "Wad1690",
+      "text": "@KatrinaColumbo @ATTHelp Not sure what you mean here. Iv only been doing this for a few hours. Feel free to add to it by all means. I am making a guess that you have an issue that has taken several days now to get help for. I simply want to be clear MY POST is only an hour or so old at most.",
+      "time_iso": "2025-11-09T11:08:05-04:00"
+    },
+    {
+      "user": "Lisette Hernandez",
+      "text": "Lately @ATT service has been terrible!!!!!!! Why!?!?",
+      "time_iso": "2025-11-09T11:03:54-04:00"
+    }
+  ],
+  "company_posts": [
+    {
+      "url": "https://x.com/ATTHelp/status/1987530137072472158",
+      "name": "AT&T Help",
+      "reply_context": "Replying to @y_a_s_u_r",
+      "text": "Hi there, this is Elina. I'm here to take care of this. Please join us in a DM to find a solution. -ElinaB",
+      "timestamp": "2025-11-09T09:38:05-04:00"
+    },
+    {
+      "url": "https://x.com/ATTHelp/status/1987526138353049991",
+      "name": "AT&T Help",
+      "reply_context": "Replying to @hvs_iitk",
+      "text": "I want to take care of this for you personally. Just send me a DM, and I\u2019ll make sure we get this sorted as quickly and smoothly as possible.",
+      "timestamp": "2025-11-09T09:22:12-04:00"
+    },
+    {
+      "url": "https://x.com/ATTHelp/status/1987381011336872305",
+      "name": "AT&T Help",
+      "reply_context": "Replying to @blackcatdogs331",
+      "text": "Hello there, we hear you, and we're here to assist. Please meet us in DM, and we'll be glad to take a closer look on this matter to help. ^LauraE https://t.co/Uyi4xN5vDH",
+      "timestamp": "2025-11-08T23:45:31-04:00"
+    }
+  ],
+  "last_15_days_status": [
+    {
+      "location": "Dallas, TX",
+      "reports": 228
+    },
+    {
+      "location": "Charlotte, NC",
+      "reports": 212
+    },
+    {
+      "location": "Houston, TX",
+      "reports": 207
+    },
+    {
+      "location": "Atlanta, GA",
+      "reports": 162
+    },
+    {
+      "location": "Chicago, IL",
+      "reports": 146
+    },
+    {
+      "location": "Miami, FL",
+      "reports": 112
+    },
+    {
+      "location": "Orlando, FL",
+      "reports": 94
+    },
+    {
+      "location": "Los Angeles, CA",
+      "reports": 90
+    },
+    {
+      "location": "Wilmington, NC",
+      "reports": 80
+    },
+    {
+      "location": "Alpharetta, GA",
+      "reports": 80
+    },
+    {
+      "location": "Fort Worth, TX",
+      "reports": 74
+    },
+    {
+      "location": "Oklahoma City, OK",
+      "reports": 74
+    },
+    {
+      "location": "Indianapolis, IN",
+      "reports": 73
+    },
+    {
+      "location": "San Antonio, TX",
+      "reports": 63
+    },
+    {
+      "location": "Jacksonville, FL",
+      "reports": 56
+    },
+    {
+      "location": "Birmingham, AL",
+      "reports": 51
+    },
+    {
+      "location": "St. Louis, MO",
+      "reports": 48
+    },
+    {
+      "location": "San Jose, CA",
+      "reports": 48
+    },
+    {
+      "location": "Columbus, OH",
+      "reports": 44
+    },
+    {
+      "location": "Detroit, MI",
+      "reports": 44
+    },
+    {
+      "location": "Raleigh, NC",
+      "reports": 42
+    },
+    {
+      "location": "New Orleans, LA",
+      "reports": 37
+    },
+    {
+      "location": "Louisville, KY",
+      "reports": 34
+    },
+    {
+      "location": "Memphis, TN",
+      "reports": 33
+    },
+    {
+      "location": "Ashburn, VA",
+      "reports": 33
+    },
+    {
+      "location": "Seattle, WA",
+      "reports": 32
+    },
+    {
+      "location": "Austin, TX",
+      "reports": 31
+    },
+    {
+      "location": "Phoenix, AZ",
+      "reports": 31
+    },
+    {
+      "location": "Sacramento, CA",
+      "reports": 31
+    },
+    {
+      "location": "Marietta, GA",
+      "reports": 28
+    }
+  ]
+}

@@ -1,0 +1,372 @@
+{
+  "star_rating": {
+    "current": "2.34 out of 5",
+    "count": "22,852 ratings"
+  },
+  "chart": {
+    "chart_ts": "134071635000000000",
+    "image_src": "https://itsdcdn.com/us/charts/chartsvg/740/370/134071635000000000/443BD3CC-8717-4586-9489-99703EF383BA.svg",
+    "alt_time": "11/09/2025 12:05"
+  },
+  "most_reported_problems": [
+    {
+      "label": "Internet",
+      "percent": 72
+    },
+    {
+      "label": "Phone",
+      "percent": 9
+    },
+    {
+      "label": "Total Blackout",
+      "percent": 8
+    },
+    {
+      "label": "Wi-fi",
+      "percent": 7
+    },
+    {
+      "label": "TV",
+      "percent": 3
+    },
+    {
+      "label": "E-mail",
+      "percent": 2
+    }
+  ],
+  "latest_reports": [
+    {
+      "city": "Tampa",
+      "reason": "Internet",
+      "time_human": "an hour ago",
+      "time_iso": "2025-11-09T10:33:18-04:00"
+    },
+    {
+      "city": "Tampa",
+      "reason": "Internet",
+      "time_human": "3 hours ago",
+      "time_iso": "2025-11-09T08:12:40-04:00"
+    },
+    {
+      "city": "Winter Garden",
+      "reason": "Internet",
+      "time_human": "6 hours ago",
+      "time_iso": "2025-11-09T05:44:28-04:00"
+    },
+    {
+      "city": "Detroit",
+      "reason": "Internet",
+      "time_human": "7 hours ago",
+      "time_iso": "2025-11-09T04:50:15-04:00"
+    },
+    {
+      "city": "Covina",
+      "reason": "Internet",
+      "time_human": "8 hours ago",
+      "time_iso": "2025-11-09T03:30:05-04:00"
+    },
+    {
+      "city": "Bullhead City",
+      "reason": "Phone",
+      "time_human": "13 hours ago",
+      "time_iso": "2025-11-08T23:01:12-04:00"
+    }
+  ],
+  "issues_reports": [
+    {
+      "user": "Kevin Davis",
+      "text": "@repeat1968 @FrontierCorp They don\u2019t listen.  I\u2019ve been 7 days without service and they blame a fiber cut yet no one is on scene to work on the \u201cfiber cut\u201d. Then they tell me no known repair date.  Well not sure when I will pay my bill then",
+      "time_iso": "2025-11-09T12:01:00-04:00"
+    },
+    {
+      "user": "Caranina01",
+      "text": "@FrontierCorp Too bad u dropped it right at the Holidays...",
+      "time_iso": "2025-11-09T11:59:53-04:00"
+    },
+    {
+      "user": "Ricky",
+      "text": "@AskFrontier speeds so slow I can barely even tweet! We\u2019ve been having issues for over a month now with multiple service calls and tickets. We are getting 1/3rd of the speeds paid for. How can I get this resolved immediately?",
+      "time_iso": "2025-11-09T11:56:45-04:00"
+    },
+    {
+      "user": "mike",
+      "text": "@AskFrontier my service has been out all day with no updates or information. How is this acceptable?!",
+      "time_iso": "2025-11-09T11:46:06-04:00"
+    },
+    {
+      "user": "Blue Scale Poseidon",
+      "text": "@FrontierCorp fiber was cut and now I don\u2019t have any internet. This affects me with work and my channel. I got a ticket submitted, but there is a 5 day wait for this to be done. Is this the kind of service your customers are supposed to have? A long wait to fix the service?",
+      "time_iso": "2025-11-09T11:43:25-04:00"
+    },
+    {
+      "user": "Ricky",
+      "text": "@FrontierCorp @AskFrontier I would like to request someone dedicated to my account as we work on resolving my issue. This has been ongoing for weeks, tech support is now telling me that there is no problem without reviewing any information related to service requests.",
+      "time_iso": "2025-11-09T11:42:53-04:00"
+    },
+    {
+      "user": "Steven hasty",
+      "text": "@FrontierCorp 7 days with no internet in Parker city I hear reports that a line is down at a railroad crossing and you can\u2019t get access I fail to understand how a company don\u2019t have access to their own property",
+      "time_iso": "2025-11-09T11:41:57-04:00"
+    },
+    {
+      "user": "Erin",
+      "text": "@AskFrontier what is the status of the service outage in central Florida?  I surely thought it\u2019d be fixed by the time I came home from work- but NOPE! and I see no work being done in the neighborhood!  \ud83e\udd28\ud83d\ude21",
+      "time_iso": "2025-11-09T11:40:26-04:00"
+    },
+    {
+      "user": "Chris Gilbertson",
+      "text": "@FrontierCorp I've never experienced more issues in my life with an internet service. In a work from home world we are in. 2.6 down makes it impossible. 2 people working from home and hard wired, not on wifi. If there was ANY other internet service I would've switched long ago.",
+      "time_iso": "2025-11-09T11:40:03-04:00"
+    },
+    {
+      "user": "Kevin Davis",
+      "text": "@AskFrontier @FrontierCorp day 7 in an internet outage with still no date of repair.  SMH.",
+      "time_iso": "2025-11-09T11:37:56-04:00"
+    },
+    {
+      "user": "Ricky",
+      "text": "@FrontierCorp I\u2019m getting nearly identical speeds on a hardwired device. If someone from support were to review logs, you\u2019d see that my account has similar issues over the last number of weeks.",
+      "time_iso": "2025-11-09T11:37:05-04:00"
+    },
+    {
+      "user": "\u264a Inspired Gemini \u264a",
+      "text": "@AskFrontier No internet. Rebooted router. No outage. Not sure what to do next?",
+      "time_iso": "2025-11-09T11:34:43-04:00"
+    },
+    {
+      "user": "t0mmyr",
+      "text": "@FrontierCorp Can I please take advantage of this or the gigabit offer as an existing customer? \n\nIf I were a new customer I could get gig for what I\u2019m paying for 500/500.  I shouldn\u2019t be penalized for being a loyal paying customer for so many years now.",
+      "time_iso": "2025-11-09T11:33:21-04:00"
+    },
+    {
+      "user": "Tanjim Osman",
+      "text": "@FrontierCorp we have been without the internet since Saturday. I and my family members work from home. You guys have been replying that you\u2019ve been working on fixing the fiber problem but no update yet. We all are working from another place right now for which we\u2019re paying",
+      "time_iso": "2025-11-09T11:31:12-04:00"
+    },
+    {
+      "user": "Shawn Taylor",
+      "text": "@FrontierCorp I signed up for service yesterday. Your technicians are here today and they are on-time, knowledgeable, and professional. If your internet fiber service lives up to its promises, you\u2019ve hit a home run.",
+      "time_iso": "2025-11-09T11:24:25-04:00"
+    },
+    {
+      "user": "Kevin Davis",
+      "text": "@ShieldVoC can you believe @FrontierCorp has kept me a disabled former police officer and a veteran that depends on their service for medical monitoring without service or a service restoration date fir going in 8 days?  This is unacceptable",
+      "time_iso": "2025-11-09T11:23:23-04:00"
+    },
+    {
+      "user": "Charles Hayes",
+      "text": "@AskFrontier I would love an explanation why the Internet has been completely down is completely down in Marietta California since early yesterday. Nothing from you.I would love an explanation why the service has been completely down in Marietta California since early Sunday.",
+      "time_iso": "2025-11-09T11:22:31-04:00"
+    },
+    {
+      "user": "Juan Carlos Silva",
+      "text": "@AskFrontier hi! Can you help me? I am 2 days without internet.",
+      "time_iso": "2025-11-09T11:17:43-04:00"
+    },
+    {
+      "user": "itsSmitty",
+      "text": "@FrontierCorp U advertise this, why as a customer of many years am I paying double that number",
+      "time_iso": "2025-11-09T11:17:34-04:00"
+    },
+    {
+      "user": "Kevin Davis",
+      "text": "@BlueScaleGuild @FrontierCorp 7 day outage so far.   SMH.  I\u2019ve had 2 tickets one for 12/6 no one showed. Now there\u2019s one for 12/7 I guess we will see",
+      "time_iso": "2025-11-09T11:17:27-04:00"
+    },
+    {
+      "user": "Pat McDonald",
+      "text": "@FrontierCorp Frontier upgraded their equipment and service in our area finally, after years of poor service. We\u2019ve only had the new service for 3 days but so far much faster speeds and reliability",
+      "time_iso": "2025-11-09T11:14:40-04:00"
+    },
+    {
+      "user": "get the ******* vaccine",
+      "text": "@FrontierCorp so like I said, it's complete garbage you won't allow current customers (and former tv subs for that matter) to just add a cablecard. that would get me exactly what I want, and it's clearly still possible because you allow existing tv subs to keep it.",
+      "time_iso": "2025-11-09T11:14:10-04:00"
+    },
+    {
+      "user": "Chris",
+      "text": "@FrontierCorp I got the gig speed and it\u2019s still terrible",
+      "time_iso": "2025-11-09T11:14:10-04:00"
+    },
+    {
+      "user": "Erin",
+      "text": "@AskFrontier over 24 hours later and still no service.  It\u2019s a good thing I don\u2019t work from home this year! \ud83d\ude21 #nointernet #ipayforthis",
+      "time_iso": "2025-11-09T11:13:44-04:00"
+    },
+    {
+      "user": "Kevin Davis",
+      "text": "@ShieldVoC can you believe @FrontierCorp  has kept me a disabled former police officer and veteran that depends on their service for medical monitoring out of service for going on 8 days??",
+      "time_iso": "2025-11-09T11:13:28-04:00"
+    },
+    {
+      "user": "Kevin Davis",
+      "text": "@ChrisGilberts10 @FrontierCorp That\u2019s typical for them.  I kept arguing how bad my service was months ago then finally the sent a new modem and then my phone filter wouldn\u2019t work. Now I\u2019ve been out of service since last Tuesday with no known repair date",
+      "time_iso": "2025-11-09T11:12:45-04:00"
+    },
+    {
+      "user": "Shannon Edrie \ud83d\udc99",
+      "text": "@FrontierCorp Except it doesn't work. I have had horrible service since Frontier took over. They keep sending techs out to solve the problems nothing works. I am told by the techs on the phone one thing and when the techs arrive at my home they say not it. I pay for a service I don't get \ud83d\ude1e",
+      "time_iso": "2025-11-09T11:11:35-04:00"
+    },
+    {
+      "user": "AJJALJ",
+      "text": "@FrontierCorp I have an internet outage in my area. When can I get the connection back? I need internet to work. Thanks.",
+      "time_iso": "2025-11-09T11:07:57-04:00"
+    },
+    {
+      "user": "get the ******* vaccine",
+      "text": "@FrontierCorp it is a joke that you won't allow current customers to add tv services via cablecard. I don't want dish or streaming crap.",
+      "time_iso": "2025-11-09T11:06:19-04:00"
+    },
+    {
+      "user": "Bobby",
+      "text": "@FrontierCorp I need help with my internet",
+      "time_iso": "2025-11-09T11:04:57-04:00"
+    }
+  ],
+  "company_posts": [
+    {
+      "url": "https://x.com/AskFrontier/status/1987515617033793985",
+      "name": "Ask Frontier",
+      "reply_context": "Replying to @1Ksubswith4778",
+      "text": "Hi 1Ksubswithoutvideo, I\u2019m here to help with any of your questions and concerns. Please send me a direct message to gather the necessary information to better assist you. -Kevin",
+      "timestamp": "2025-11-09T08:40:24-04:00"
+    },
+    {
+      "url": "https://x.com/AskFrontier/status/1987315910441349396",
+      "name": "Ask Frontier",
+      "reply_context": "Replying to @JoseLuisRegal",
+      "text": "Hello, I would be more than happy to assist you. I would just need you to send me a private message. -Mary https://t.co/uvh7cLDQwy",
+      "timestamp": "2025-11-08T19:26:50-04:00"
+    },
+    {
+      "url": "https://x.com/AskFrontier/status/1987154039021125719",
+      "name": "Ask Frontier",
+      "reply_context": "Replying to @baldingeagle25",
+      "text": "Hi Nolan, I\u2019m here to assist you with any questions and concerns about the service interruption in your area. Please feel free to send me a direct message so that I can take a look. -Kevin",
+      "timestamp": "2025-11-08T08:43:37-04:00"
+    }
+  ],
+  "last_15_days_status": [
+    {
+      "location": "Tampa, FL",
+      "reports": 91
+    },
+    {
+      "location": "Dallas, TX",
+      "reports": 65
+    },
+    {
+      "location": "Orlando, FL",
+      "reports": 53
+    },
+    {
+      "location": "Los Angeles, CA",
+      "reports": 53
+    },
+    {
+      "location": "Indianapolis, IN",
+      "reports": 43
+    },
+    {
+      "location": "Houston, TX",
+      "reports": 38
+    },
+    {
+      "location": "Detroit, MI",
+      "reports": 20
+    },
+    {
+      "location": "Fort Worth, TX",
+      "reports": 18
+    },
+    {
+      "location": "Miami, FL",
+      "reports": 15
+    },
+    {
+      "location": "St. Louis, MO",
+      "reports": 13
+    },
+    {
+      "location": "Bradenton, FL",
+      "reports": 12
+    },
+    {
+      "location": "Chicago, IL",
+      "reports": 10
+    },
+    {
+      "location": "Plano, TX",
+      "reports": 8
+    },
+    {
+      "location": "Riverside, CA",
+      "reports": 8
+    },
+    {
+      "location": "San Antonio, TX",
+      "reports": 7
+    },
+    {
+      "location": "Sarasota, FL",
+      "reports": 7
+    },
+    {
+      "location": "Anaheim, CA",
+      "reports": 7
+    },
+    {
+      "location": "Pittsburgh, PA",
+      "reports": 7
+    },
+    {
+      "location": "Humble, TX",
+      "reports": 7
+    },
+    {
+      "location": "Rockwall, TX",
+      "reports": 7
+    },
+    {
+      "location": "Riverview, FL",
+      "reports": 6
+    },
+    {
+      "location": "San Jose, CA",
+      "reports": 6
+    },
+    {
+      "location": "Minneapolis, MN",
+      "reports": 6
+    },
+    {
+      "location": "Springfield, MO",
+      "reports": 6
+    },
+    {
+      "location": "Tyler, TX",
+      "reports": 6
+    },
+    {
+      "location": "Charlotte, NC",
+      "reports": 6
+    },
+    {
+      "location": "Austin, TX",
+      "reports": 5
+    },
+    {
+      "location": "Columbus, OH",
+      "reports": 5
+    },
+    {
+      "location": "St. Petersburg, FL",
+      "reports": 5
+    },
+    {
+      "location": "Long Beach, CA",
+      "reports": 5
+    }
+  ]
+}

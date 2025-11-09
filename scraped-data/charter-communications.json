@@ -1,0 +1,372 @@
+{
+  "star_rating": {
+    "current": "2.29 out of 5",
+    "count": "433,424 ratings"
+  },
+  "chart": {
+    "chart_ts": "134071635000000000",
+    "image_src": "https://itsdcdn.com/us/charts/chartsvg/740/370/134071635000000000/685E5A5D-9439-4BEE-9782-9BFA429E5DFF.svg",
+    "alt_time": "11/09/2025 12:05"
+  },
+  "most_reported_problems": [
+    {
+      "label": "Internet",
+      "percent": 63
+    },
+    {
+      "label": "Wi-fi",
+      "percent": 12
+    },
+    {
+      "label": "Total Blackout",
+      "percent": 9
+    },
+    {
+      "label": "TV",
+      "percent": 9
+    },
+    {
+      "label": "E-mail",
+      "percent": 3
+    },
+    {
+      "label": "Phone",
+      "percent": 3
+    }
+  ],
+  "latest_reports": [
+    {
+      "city": "Fenwick",
+      "reason": "Wi-fi",
+      "time_human": "5 minutes ago",
+      "time_iso": "2025-11-09T11:59:13-04:00"
+    },
+    {
+      "city": "Austin",
+      "reason": "Wi-fi",
+      "time_human": "7 minutes ago",
+      "time_iso": "2025-11-09T11:57:22-04:00"
+    },
+    {
+      "city": "Cleveland",
+      "reason": "Internet",
+      "time_human": "11 minutes ago",
+      "time_iso": "2025-11-09T11:53:24-04:00"
+    },
+    {
+      "city": "Hancock",
+      "reason": "Internet",
+      "time_human": "11 minutes ago",
+      "time_iso": "2025-11-09T11:52:36-04:00"
+    },
+    {
+      "city": "Cathedral City",
+      "reason": "TV",
+      "time_human": "13 minutes ago",
+      "time_iso": "2025-11-09T11:50:46-04:00"
+    },
+    {
+      "city": "Rochester",
+      "reason": "Internet",
+      "time_human": "20 minutes ago",
+      "time_iso": "2025-11-09T11:43:59-04:00"
+    }
+  ],
+  "issues_reports": [
+    {
+      "user": "\ud83d\udcb0\ud83e\udddb\ud83d\ude4c\ud83c\udffe",
+      "text": "@GetSpectrum  dumb *** , my service is dog water",
+      "time_iso": "2025-11-09T11:58:52-04:00"
+    },
+    {
+      "user": "summit benefits",
+      "text": "@Ask_Spectrum Cable is just down - no trees on the cable at this time - but it\u2019s Fallon completely down - neighbor can\u2019t leave drive",
+      "time_iso": "2025-11-09T11:55:42-04:00"
+    },
+    {
+      "user": "Psychedelic Killstreaks",
+      "text": "@GetSpectrum @AskSpectrum14 why in ******** do yall suck so much ***? My internet has gone out a total 3 times in the past two days for no reason just oh service is out in your area. Fix your **** dude",
+      "time_iso": "2025-11-09T11:54:28-04:00"
+    },
+    {
+      "user": "Collins Pettaway, III",
+      "text": "So let\u2019s just say that a service area is devastated by an F-3 tornado, affecting over 3,300 properties in a rural county with a population of less than 30,000 residents. @GetSpectrum",
+      "time_iso": "2025-11-09T11:54:26-04:00"
+    },
+    {
+      "user": "KITkatsMEOW",
+      "text": "@Ask_Spectrum No, I cancelled the service bcuz it was very poor service.",
+      "time_iso": "2025-11-09T11:52:24-04:00"
+    },
+    {
+      "user": "FreeRoamGuy",
+      "text": "@Ask_Spectrum It started working an hour later for me. It was just a temporary service outage. I was just stating a fact that everyone is pushing paperless but tech is unstable. Especially when it comes to services that require payments. I was able to pay my bill. Thank you.",
+      "time_iso": "2025-11-09T11:51:17-04:00"
+    },
+    {
+      "user": "deepak",
+      "text": "Mercy of wizaeds wgo@project FPSMS CDSM - TWC \n\nMKL sr tires to hit FPSMS CDSM \n\nMy copy dog & Fpsms CDSM - stare at each other - the ones who support CDSM - trillions - countries - BMDTS",
+      "time_iso": "2025-11-09T11:43:37-04:00"
+    },
+    {
+      "user": "Eric Breese",
+      "text": "@Ask_Spectrum how do I get a billing credit? Service hasn\u2019t been working for months. You\u2019ve been 0 help and wasted days of my time.",
+      "time_iso": "2025-11-09T11:40:46-04:00"
+    },
+    {
+      "user": "FreeRoamGuy",
+      "text": "@Ask_Spectrum go paperless they say. It\u2019s better they say. Yeah, all well and great until I can\u2019t pay for service because someone in the server room decided to kick one over and break everything. Can\u2019t pay my bill if I can\u2019t log in. Website and app are broken.",
+      "time_iso": "2025-11-09T11:38:55-04:00"
+    },
+    {
+      "user": "deepak",
+      "text": "FORST cry - TWC \n\nAll these SCLU drels IMC ***** were forced to@plY for fps@s - NOBODY CRIED \n\nJust one day - My copy dog kicked losers \n\nThese scoundrels gave that back too \n\nFPSMS chakka : I should leave \n\nto \n\nTHE WORST PGN SINCE 3 hrs \n\nBy using TAMIL PSYCHOTIC **** + BEGGARS",
+      "time_iso": "2025-11-09T11:38:44-04:00"
+    },
+    {
+      "user": "FranZ",
+      "text": "@Ask_Spectrum is there an outage in HighPoint north carolina ?",
+      "time_iso": "2025-11-09T11:36:01-04:00"
+    },
+    {
+      "user": "Collins Pettaway, III",
+      "text": "OR the fact that you send bogus messages confirming that service has been restored when in fact it most certainly has not @GetSpectrum",
+      "time_iso": "2025-11-09T11:35:46-04:00"
+    },
+    {
+      "user": "Carolyn and Ike Edwards",
+      "text": "@Ask_Spectrum @FreeRoamGuy Wtf???  We\u2019ve had an outage in Buda, TX. since yesterday @ 11:15am!!!  They\u2019re still saying there\u2019s no estimated time it\u2019ll be back up. This is unacceptable esp. Bc my husband is losing money bc he\u2019s working from home",
+      "time_iso": "2025-11-09T11:33:25-04:00"
+    },
+    {
+      "user": "Chad Rubel",
+      "text": "@NoraZuckerman @GetSpectrum Ugh. Never had it out that long. Sorry.",
+      "time_iso": "2025-11-09T11:31:49-04:00"
+    },
+    {
+      "user": "Carolyn and Ike Edwards",
+      "text": "@Ask_Spectrum @FreeRoamGuy I talked to a supervisor & he told me we\u2019re the last vicinity to get it fixed & everyone else\u2019s is up. I\u2019m changing our internet provider bc I just switched to spectrum a couple of months ago & this has never happened with any other providers.",
+      "time_iso": "2025-11-09T11:30:17-04:00"
+    },
+    {
+      "user": "Medicine Man",
+      "text": "@GetSpectrum how come my bill went up 10.00 out of no where? WTF!!",
+      "time_iso": "2025-11-09T11:26:06-04:00"
+    },
+    {
+      "user": "hyper",
+      "text": "TWC comments - 'The event was bigger than us' (@AnteKristo)  - many good new features were built as a consequence of it, but overall it was too early for them. Lots of good, some bad.\n\nNew marketing strategy will be executed in Q2\n\nTalks with clubs outside Germany for Goat Club!",
+      "time_iso": "2025-11-09T11:22:21-04:00"
+    },
+    {
+      "user": "AmaranthRosenrot (aka Mara Rose )",
+      "text": "@GetSpectrum How come long term customers keep having their bill go up every month? You offer deals for new customers but not 20+ year customers?  Close to cancelling spectrum because of your ****.",
+      "time_iso": "2025-11-09T11:21:06-04:00"
+    },
+    {
+      "user": "summit benefits",
+      "text": "cable line is down in drive way, will not allow neighbor and us to exit drive way @Ask_Spectrum",
+      "time_iso": "2025-11-09T11:18:35-04:00"
+    },
+    {
+      "user": "ceanimenerd",
+      "text": "@Ask_Spectrum  man y'alls service been out for 11hrs now. y'all not gonna fix it or what?",
+      "time_iso": "2025-11-09T11:16:51-04:00"
+    },
+    {
+      "user": "KMG_Vintage54",
+      "text": "@Ask_Spectrum  Your technicians cut the line to my @breezeline cable with an excavator and are unable to fix it. Totally unacceptable. Shouldn't they be checking for lines before digging?",
+      "time_iso": "2025-11-09T11:16:04-04:00"
+    },
+    {
+      "user": "Joyce Harrell-Reese",
+      "text": "@sunworksphoto @Ask_Spectrum @Verizon Verizon has been down over 12 hours, thank goodness I have Spectrum!",
+      "time_iso": "2025-11-09T11:16:02-04:00"
+    },
+    {
+      "user": "Dianne8675309 \ud83c\uddfa\ud83c\uddf2",
+      "text": "@Ask_Spectrum what happened to @COZITV on channel 178? It's showing betting now. Rude.",
+      "time_iso": "2025-11-09T11:15:45-04:00"
+    },
+    {
+      "user": "KMG_Vintage54",
+      "text": "@Ask_Spectrum Your technicians cut the line to my @breezeline cable with an excavator and are unable to fix it. Totally unacceptable. Shouldn't they be checking for lines before digging?",
+      "time_iso": "2025-11-09T11:12:45-04:00"
+    },
+    {
+      "user": "Oliver Atom",
+      "text": "@Ask_Spectrum Fix the internet \ud83d\ude2d it\u2019s been too long",
+      "time_iso": "2025-11-09T11:11:37-04:00"
+    },
+    {
+      "user": "Jeff Hijuelos",
+      "text": "Hey @GetSpectrum @Ask_Spectrum you suck.   Internet has gone down nearly 20 times in 3 days.  Real cool when I work from home.  If you\u2019re still reading, I feel the need to tell you that you suck again.",
+      "time_iso": "2025-11-09T11:09:48-04:00"
+    },
+    {
+      "user": "Collins Pettaway, III",
+      "text": "Please explain to me why the hell do you have workers installing temporary colored service lines that run above ground all over driveways for people to walk and drive over and then refuse to come back to install a permanent one in the ground @GetSpectrum",
+      "time_iso": "2025-11-09T11:09:03-04:00"
+    },
+    {
+      "user": "NolanCreate",
+      "text": "@Ask_Spectrum damn near killed em over here raising cost $5 a mo with no improvement in svcs, typical.",
+      "time_iso": "2025-11-09T11:06:32-04:00"
+    },
+    {
+      "user": "Matt Saunier",
+      "text": "Why does @GetSpectrum make you have an account password and then require you to have a stupid security code that is ONLY on your paper statement before you can do literally anything?",
+      "time_iso": "2025-11-09T11:05:28-04:00"
+    },
+    {
+      "user": "yayBBQ",
+      "text": "Imagine raising prices for an internet carrier that sucks real bad. @GetSpectrum \ud83d\ude12",
+      "time_iso": "2025-11-09T10:59:14-04:00"
+    }
+  ],
+  "company_posts": [
+    {
+      "url": "https://x.com/Ask_Spectrum/status/1987481083911311643",
+      "name": "Ask Spectrum",
+      "reply_context": "Replying to @feldagast",
+      "text": "Good morning, we are sorry for the issues with out service while trying to stream. We will be more than happy to look into this for you. Please DM us for assistance. -KL",
+      "timestamp": "2025-11-09T06:23:10-04:00"
+    },
+    {
+      "url": "https://x.com/Ask_Spectrum/status/1987480046664134715",
+      "name": "Ask Spectrum",
+      "reply_context": "Replying to @Holdout1Smith",
+      "text": "Good morning, we are sorry for this issue with our service. Please DM us for assistance. -KL",
+      "timestamp": "2025-11-09T06:19:03-04:00"
+    },
+    {
+      "url": "https://x.com/Ask_Spectrum/status/1987479784272642306",
+      "name": "Ask Spectrum",
+      "reply_context": "Replying to @Prophet127",
+      "text": "@GetSpectrum Good morning, we are sorry for the issues with our service, we will be more than happy to look into this for you. Please DM us for assistance. -KL",
+      "timestamp": "2025-11-09T06:18:00-04:00"
+    }
+  ],
+  "last_15_days_status": [
+    {
+      "location": "Dallas, TX",
+      "reports": 1166
+    },
+    {
+      "location": "Los Angeles, CA",
+      "reports": 1023
+    },
+    {
+      "location": "Charlotte, NC",
+      "reports": 813
+    },
+    {
+      "location": "Orlando, FL",
+      "reports": 599
+    },
+    {
+      "location": "St. Louis, MO",
+      "reports": 522
+    },
+    {
+      "location": "Columbus, OH",
+      "reports": 508
+    },
+    {
+      "location": "New York City, NY",
+      "reports": 447
+    },
+    {
+      "location": "Fort Worth, TX",
+      "reports": 340
+    },
+    {
+      "location": "Indianapolis, IN",
+      "reports": 323
+    },
+    {
+      "location": "Cleveland, OH",
+      "reports": 318
+    },
+    {
+      "location": "San Antonio, TX",
+      "reports": 314
+    },
+    {
+      "location": "Tampa, FL",
+      "reports": 295
+    },
+    {
+      "location": "Chicago, IL",
+      "reports": 282
+    },
+    {
+      "location": "Detroit, MI",
+      "reports": 276
+    },
+    {
+      "location": "Milwaukee, WI",
+      "reports": 274
+    },
+    {
+      "location": "Austin, TX",
+      "reports": 270
+    },
+    {
+      "location": "Atlanta, GA",
+      "reports": 251
+    },
+    {
+      "location": "Buffalo, NY",
+      "reports": 235
+    },
+    {
+      "location": "Cincinnati, OH",
+      "reports": 233
+    },
+    {
+      "location": "Minneapolis, MN",
+      "reports": 219
+    },
+    {
+      "location": "Honolulu, HI",
+      "reports": 177
+    },
+    {
+      "location": "Denver, CO",
+      "reports": 164
+    },
+    {
+      "location": "Raleigh, NC",
+      "reports": 156
+    },
+    {
+      "location": "Alpharetta, GA",
+      "reports": 148
+    },
+    {
+      "location": "Louisville, KY",
+      "reports": 143
+    },
+    {
+      "location": "Brooklyn, NY",
+      "reports": 142
+    },
+    {
+      "location": "Rochester, NY",
+      "reports": 140
+    },
+    {
+      "location": "Syracuse, NY",
+      "reports": 137
+    },
+    {
+      "location": "Anaheim, CA",
+      "reports": 132
+    },
+    {
+      "location": "Dayton, OH",
+      "reports": 125
+    }
+  ]
+}

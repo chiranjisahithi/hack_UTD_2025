@@ -1,0 +1,372 @@
+{
+  "star_rating": {
+    "current": "2.29 out of 5",
+    "count": "7,615 ratings"
+  },
+  "chart": {
+    "chart_ts": "134071635000000000",
+    "image_src": "https://itsdcdn.com/us/charts/chartsvg/740/370/134071635000000000/a3981557-55cc-4bb1-bf69-e9e5be881ffc.svg",
+    "alt_time": "11/09/2025 12:05"
+  },
+  "most_reported_problems": [
+    {
+      "label": "Phone",
+      "percent": 65
+    },
+    {
+      "label": "Total Blackout",
+      "percent": 16
+    },
+    {
+      "label": "Internet",
+      "percent": 11
+    },
+    {
+      "label": "E-mail",
+      "percent": 4
+    },
+    {
+      "label": "Wi-fi",
+      "percent": 4
+    },
+    {
+      "label": "TV(%)",
+      "percent": null
+    }
+  ],
+  "latest_reports": [
+    {
+      "city": "Council Bluffs",
+      "reason": "Internet",
+      "time_human": "17 hours ago",
+      "time_iso": "2025-11-08T18:36:06-04:00"
+    },
+    {
+      "city": "Suffolk",
+      "reason": "Phone",
+      "time_human": "2 days ago",
+      "time_iso": "2025-11-07T21:34:26-04:00"
+    },
+    {
+      "city": "Pflugerville",
+      "reason": "Phone",
+      "time_human": "2 days ago",
+      "time_iso": "2025-11-07T16:57:08-04:00"
+    },
+    {
+      "city": "Columbus",
+      "reason": "Phone",
+      "time_human": "2 days ago",
+      "time_iso": "2025-11-07T14:56:53-04:00"
+    },
+    {
+      "city": "Chicago",
+      "reason": "Phone",
+      "time_human": "2 days ago",
+      "time_iso": "2025-11-07T14:51:33-04:00"
+    },
+    {
+      "city": "Thurmont",
+      "reason": "Phone",
+      "time_human": "3 days ago",
+      "time_iso": "2025-11-05T16:05:55-04:00"
+    }
+  ],
+  "issues_reports": [
+    {
+      "user": "Allen Ikemba",
+      "text": "@boostmobile could be the worst mobile provider ever. Wallet me take that back, not couldn't, IS. I worked in the industry for 7 years and never once dealt with the bs in dealing with now. Customer service is null and void with these fools. I need a new provider for my son ASAP.",
+      "time_iso": "2025-11-09T12:03:07-04:00"
+    },
+    {
+      "user": "Earl Jr",
+      "text": "The interruption of services is to me a poor way of handling business. @boostmobile had to rent @TMobile Cell Towers & Sprint Towers but in the process didn't full-fill their part of the bargain to finish upgrading their Cell Towers. Now they're brute forcing ppl to buy new phs.",
+      "time_iso": "2025-11-09T12:01:14-04:00"
+    },
+    {
+      "user": "the GREATE$T\ud83d\udc9b",
+      "text": "I want a new phone & service so bad\u2026. How does unlimited data run out ??????? @boostmobile that\u2019s crazy I\u2019m paying extra for unlimited data when it\u2019s not. I\u2019ve been a customer for years but this will be my last month. This doesn\u2019t make any sense.",
+      "time_iso": "2025-11-09T12:00:03-04:00"
+    },
+    {
+      "user": "Jhn Bigbout\u00e9",
+      "text": "@boostmobile \nIs the network down in OC?\nNo coverage, no data",
+      "time_iso": "2025-11-09T11:53:14-04:00"
+    },
+    {
+      "user": "Mitch g",
+      "text": "@Tracfone Having trouble? Haha. That's a rhetorical question, right? Had 60+ days left when u went to 5g & service died on my phone (347255094.) I now am pleased w/ my smart phone @boostmobile Customer service @tracfone is an #oxymoron",
+      "time_iso": "2025-11-09T11:48:23-04:00"
+    },
+    {
+      "user": "Mackenna. \ud83c\udf83",
+      "text": "This company is taking advantage of an old woman and is trying to scam her out of $200 because they won't fix their own mistake @boostmobile",
+      "time_iso": "2025-11-09T11:45:50-04:00"
+    },
+    {
+      "user": "Frank Palmer \ud83c\uddfa\ud83c\udde6 \ud83c\udde6\ud83c\uddfa \ud83c\uddfa\ud83c\uddf8",
+      "text": "Dear @boostmobile, where ******** do you turds get off trying to lard up my phone with 10GB worth of useless apps I never asked for, nor gave permission to add?",
+      "time_iso": "2025-11-09T11:44:22-04:00"
+    },
+    {
+      "user": "Dan Griffin",
+      "text": "@boostmobile sucks. I'm going to @Mintmobile where I know @VancityReynolds will treat me right",
+      "time_iso": "2025-11-09T11:44:01-04:00"
+    },
+    {
+      "user": "Earl Jr",
+      "text": "@CompanyLawyers Disabled & my spouse paid our cell ph bill - but @boostmobile is refusing services forcing us to upgrade.. We can't right now because both my spouse & I are ill. Not with CV19 - but due to my illnesses, If needed, emergency care when it's needed. No Ph no 911 ?",
+      "time_iso": "2025-11-09T11:41:31-04:00"
+    },
+    {
+      "user": "Earl Jr",
+      "text": "@Lawyer - Looking into starting a class-A Lawsuit against @boostmobile - People paid for their services & they've disrupted our service to force us into 5G - They also have a suit against them from @TMobile about Boost renting their towers and not full-filling it.",
+      "time_iso": "2025-11-09T11:41:23-04:00"
+    },
+    {
+      "user": "\ud83c\udfa7\ud83c\udfa4 \ud835\udc38\ud835\udcc2\ud835\udcc5\ud835\udcc7\ud835\udc52\ud835\udcc8\ud835\udcc8 \ud835\udc3f\ud835\udcbe\u2740\ud835\udcc3\ud835\udc52\ud835\udcc8\ud835\udcc8 \ud83c\udfb6\u2763\ufe0f",
+      "text": "@BoostCare #boostmobilesucks \nThey switch to a new network and u can\u2019t even change ya plan on the boost one app or the my boost mobile website been calling since march and my bill due today and some rep put me on the $25 dollar plan smh and I got $50 in my account",
+      "time_iso": "2025-11-09T11:41:06-04:00"
+    },
+    {
+      "user": "Earl Jr",
+      "text": "Because of my health issues, even after paying @boostmobile , anything happens to me & services are disrupted.. will see a councilor & I'm sure everyone who is a @boostmobile customer will here about it, including the Slave Labr that is going on while they outsouce paying $5 wk.",
+      "time_iso": "2025-11-09T11:36:33-04:00"
+    },
+    {
+      "user": "Gary Robert Looney",
+      "text": "@stokols @boostmobile \nHi, looking at accessibility of services for remote, low income, and those with disability in AU.\n\nRequesting 5 activation page screens to view payment detail requirements.\n\nRequesting service use without need of ph throughout pre-loaded data use @BoostAus",
+      "time_iso": "2025-11-09T11:35:23-04:00"
+    },
+    {
+      "user": "(sol)itude",
+      "text": "@BoostCare I've already made the decision to switch to @Verizon due to the severe decreasing quality of your customer service. I'll be switching next month.",
+      "time_iso": "2025-11-09T11:34:50-04:00"
+    },
+    {
+      "user": "Daniel Turek",
+      "text": "@BoostCare Been having issues with people being able to hear me in Austin TX 78741 area.  Seems to started about 3 weeks ago.  Not sure what the issue is.",
+      "time_iso": "2025-11-09T11:32:44-04:00"
+    },
+    {
+      "user": "itme",
+      "text": "@BoostCare @boostmobile i've had no cell phone service since saturday. i've spent many hours talking and messaging with your representatives. can you get me connected with someone who can fix this PLEASEEEEEE",
+      "time_iso": "2025-11-09T11:32:27-04:00"
+    },
+    {
+      "user": "Gary Robert Looney",
+      "text": "@stokols @boostmobile I believe it\u2019s better to put customer financial welfare before hoodwink, smart arse marketing and gotcha site UI's. Modest sustainable profits that build trust, and a solid low income customer base @boostAus with less of the negative damage control required.",
+      "time_iso": "2025-11-09T11:32:20-04:00"
+    },
+    {
+      "user": "Sopulu Chukwu",
+      "text": "@boostmobile Hi @boostmobile I really need help unlocking my phone, my friend help me bought the phone on OfferUp then shipped it for me to Nigeria, I have gone several places trying to unlock it, Imagine buying phone $160 and I Can't make use of it for 4 months now.",
+      "time_iso": "2025-11-09T11:30:51-04:00"
+    },
+    {
+      "user": "Druscylla",
+      "text": "@boostmobile Worst service ever. And I've suffered both T-mobile and Verizon.",
+      "time_iso": "2025-11-09T11:30:39-04:00"
+    },
+    {
+      "user": "the GREATE$T\ud83d\udc9b",
+      "text": "@BoostCare Get a better network cus I shouldn\u2019t have to have slower speeds for other people that has nothing to do with me. I pay extra for a reason !",
+      "time_iso": "2025-11-09T11:29:11-04:00"
+    },
+    {
+      "user": "\uf8ffBULLS 1\ud83c\udd9aBUCKS 1\uf8ff",
+      "text": "Normally I have bars at home but lately I haven\u2019t. I don\u2019t know if it\u2019s @Apple or @boostmobile but my bars/service been dropping a lot",
+      "time_iso": "2025-11-09T11:28:06-04:00"
+    },
+    {
+      "user": "(sol)itude",
+      "text": "It's getting to the point where I would rather be on @Verizon, because the customer service on @boostmobile since they switched to @dish is uninformed and useless. At least with Verizon, they usually know what they're doing even if they don't care about my concerns. \ud83e\udee5",
+      "time_iso": "2025-11-09T11:27:49-04:00"
+    },
+    {
+      "user": "\ud83c\uddfa\ud83c\uddf8-*****\ud83c\udf4aKong-\ud83c\uddfa\ud83c\uddf8",
+      "text": "@boostmobile Was just cussed out by an employee for asking to purchase an Xfinity prepaid router.  Worst customer service EVER.\nI will never spend another dollar with Boost.",
+      "time_iso": "2025-11-09T11:27:28-04:00"
+    },
+    {
+      "user": "Earl Jr",
+      "text": "I'm pretty sure I'm not the only one that isn't going through this with @boostmobile . @TMobile has a lawsuit going against @boostmobile & I'm sure they would like to have our service - ?? - due to breach of Contract - Like they're doing with us. We're the Consumer -",
+      "time_iso": "2025-11-09T11:22:55-04:00"
+    },
+    {
+      "user": "Mackenna. \ud83c\udf83",
+      "text": "I hate this company and they continuously rip people off. I'm so mad that this is happening to my mom right now who is old and can't drive and is one of the primary caretakers of my niece. Truly **** you @boostmobile fix this",
+      "time_iso": "2025-11-09T11:19:37-04:00"
+    },
+    {
+      "user": "adwiy\ud83e\uddf8\ud83d\udd2a",
+      "text": "@boostmobile **** you i hate you",
+      "time_iso": "2025-11-09T11:18:45-04:00"
+    },
+    {
+      "user": "Earl Jr",
+      "text": "I need a good lawyer - against @boostmobile - they've decided to refuse services at the same time of be being disabled, my Wife is Sick & so am I.. We can't get out of the house due to my symptoms - not CV19.. But deal with a spinal Disease and other severe health issues.",
+      "time_iso": "2025-11-09T11:09:19-04:00"
+    },
+    {
+      "user": "\ud83e\udd40",
+      "text": "How do I send out a $50 payment to @boostmobile  and they \u201cdon\u2019t have it in the system\u201d yea ok well you were quick to take my money but not so quick when there\u2019s a ******* issue ?!!",
+      "time_iso": "2025-11-09T11:06:56-04:00"
+    },
+    {
+      "user": "\ud83e\udddf\u200d\u2642\ufe0f",
+      "text": "@BoostCare i recently got a iphone 11 from a friend thats unlocked but was ran through cricket but when i go to swap phones on boost mobile and enter IMEI number it says no data found any help? because i know iphone 11\u2019s are compatible with boost",
+      "time_iso": "2025-11-09T11:06:22-04:00"
+    },
+    {
+      "user": "Black Nerds Matter",
+      "text": "@boostmobile are y\u2019all doing maintenance on your network at 4AM cst if you are it would nice if you told your customers. I\u2019ve been working in wireless for over 20 years and when the network just drops like this in the middle of night it\u2019s usually due to maintenance",
+      "time_iso": "2025-11-09T11:06:04-04:00"
+    }
+  ],
+  "company_posts": [
+    {
+      "url": "https://x.com/BoostCare/status/1987510324048633991",
+      "name": "Boost Mobile Care",
+      "reply_context": "Replying to @IshayaKai",
+      "text": "I sincerely apologize for your recent experience, Kai. We appreciate your feedback and are always working to improve. If you are still having issues, send us a PM, so we can investigate further!\n\n\u2013 MG",
+      "timestamp": "2025-11-09T08:19:22-04:00"
+    },
+    {
+      "url": "https://x.com/BoostCare/status/1987164470418841642",
+      "name": "Boost Mobile Care",
+      "reply_context": "Replying to @Beccapugmom",
+      "text": "Good Morning Rebecca,\nThank you for reaching out to us here at Boost. I understand you have unlimited what are you looking at doing? -R.M.",
+      "timestamp": "2025-11-08T09:25:04-04:00"
+    },
+    {
+      "url": "https://x.com/BoostCare/status/1986905388445253945",
+      "name": "Boost Mobile Care",
+      "reply_context": "Replying to @Cjsdad132",
+      "text": "We\u2019ve received your message but aren\u2019t able to reply! Please give us a follow @boostcare and send us another message, so we can get started!-A.F.",
+      "timestamp": "2025-11-07T16:15:34-04:00"
+    }
+  ],
+  "last_15_days_status": [
+    {
+      "location": "Chicago, IL",
+      "reports": 12
+    },
+    {
+      "location": "Indianapolis, IN",
+      "reports": 7
+    },
+    {
+      "location": "Columbus, OH",
+      "reports": 5
+    },
+    {
+      "location": "Atlanta, GA",
+      "reports": 5
+    },
+    {
+      "location": "Fort Wayne, IN",
+      "reports": 5
+    },
+    {
+      "location": "Detroit, MI",
+      "reports": 4
+    },
+    {
+      "location": "Dallas, TX",
+      "reports": 3
+    },
+    {
+      "location": "Minneapolis, MN",
+      "reports": 3
+    },
+    {
+      "location": "Houston, TX",
+      "reports": 3
+    },
+    {
+      "location": "San Antonio, TX",
+      "reports": 3
+    },
+    {
+      "location": "Grand Rapids, MI",
+      "reports": 3
+    },
+    {
+      "location": "Council Bluffs, IA",
+      "reports": 2
+    },
+    {
+      "location": "High Point, NC",
+      "reports": 2
+    },
+    {
+      "location": "Lincoln, NE",
+      "reports": 2
+    },
+    {
+      "location": "Queens, NY",
+      "reports": 2
+    },
+    {
+      "location": "St. Louis, MO",
+      "reports": 2
+    },
+    {
+      "location": "South Bend, IN",
+      "reports": 2
+    },
+    {
+      "location": "Kalamazoo, MI",
+      "reports": 2
+    },
+    {
+      "location": "Westerville, OH",
+      "reports": 2
+    },
+    {
+      "location": "Cleveland, OH",
+      "reports": 2
+    },
+    {
+      "location": "Miami, FL",
+      "reports": 2
+    },
+    {
+      "location": "New York City, NY",
+      "reports": 2
+    },
+    {
+      "location": "DeLand, FL",
+      "reports": 2
+    },
+    {
+      "location": "Jackson, MI",
+      "reports": 2
+    },
+    {
+      "location": "Corpus Christi, TX",
+      "reports": 2
+    },
+    {
+      "location": "Ashburn, VA",
+      "reports": 2
+    },
+    {
+      "location": "Suffolk, VA",
+      "reports": 1
+    },
+    {
+      "location": "Pflugerville, TX",
+      "reports": 1
+    },
+    {
+      "location": "Thurmont, MD",
+      "reports": 1
+    },
+    {
+      "location": "Utica, MI",
+      "reports": 1
+    }
+  ]
+}

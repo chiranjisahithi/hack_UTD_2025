@@ -1,0 +1,373 @@
+{
+  "star_rating": {
+    "current": "2.47 out of 5",
+    "count": "83,265 ratings"
+  },
+  "chart": {
+    "chart_ts": "134071635000000000",
+    "image_src": "https://itsdcdn.com/us/charts/chartsvg/740/370/134071635000000000/E6C587BD-2964-4C28-9DF1-E4A663F9CC3B.svg",
+    "alt_time": "11/09/2025 12:05"
+  },
+  "most_reported_problems": [
+    {
+      "label": "Phone",
+      "percent": 53
+    },
+    {
+      "label": "Internet",
+      "percent": 27
+    },
+    {
+      "label": "Total Blackout",
+      "percent": 7
+    },
+    {
+      "label": "Wi-fi",
+      "percent": 6
+    },
+    {
+      "label": "E-mail",
+      "percent": 4
+    },
+    {
+      "label": "TV",
+      "percent": 3
+    }
+  ],
+  "latest_reports": [
+    {
+      "city": "Vancouver",
+      "reason": "Phone",
+      "time_human": "14 minutes ago",
+      "time_iso": "2025-11-09T11:50:08-04:00"
+    },
+    {
+      "city": "Bethesda",
+      "reason": "Wi-fi",
+      "time_human": "37 minutes ago",
+      "time_iso": "2025-11-09T11:26:51-04:00"
+    },
+    {
+      "city": "Washington, D.C.",
+      "reason": "Internet",
+      "time_human": "52 minutes ago",
+      "time_iso": "2025-11-09T11:11:34-04:00"
+    },
+    {
+      "city": "Rising Sun",
+      "reason": "Phone",
+      "time_human": "an hour ago",
+      "time_iso": "2025-11-09T10:30:20-04:00"
+    },
+    {
+      "city": "Philadelphia",
+      "reason": "Total Blackout",
+      "time_human": "an hour ago",
+      "time_iso": "2025-11-09T10:07:59-04:00"
+    },
+    {
+      "city": "O'Fallon",
+      "reason": "Phone",
+      "time_human": "2 hours ago",
+      "time_iso": "2025-11-09T09:10:21-04:00"
+    }
+  ],
+  "issues_reports": [
+    {
+      "user": "Carol D'Elisiis",
+      "text": "@Verizon too bad they don't care about their customers as much as they care about making money!!! chatted for over 2 hours for something that I Finally fixed that they should have never done - shame on them!!!!!!",
+      "time_iso": "2025-11-09T11:57:39-04:00"
+    },
+    {
+      "user": "Alex",
+      "text": "has anyone else\u2019s Verizon signal been complete trash lately??",
+      "time_iso": "2025-11-09T11:53:08-04:00"
+    },
+    {
+      "user": "Jim",
+      "text": "@NevilleRay @TMobile I am considering you or Verizon. Help me make a choice.",
+      "time_iso": "2025-11-09T11:50:06-04:00"
+    },
+    {
+      "user": "Constantine",
+      "text": "@shorty_from I am on 94 wip I don't have NBC sports philly on dish it only exists on Xfinity,  Verizon,  rcn cable systems not dish network",
+      "time_iso": "2025-11-09T11:48:41-04:00"
+    },
+    {
+      "user": "Neko.Uke\ud83d\ude38 Is back on twitch!",
+      "text": "@itssunkrys I've had verizon, tmobile and sprint. LTE just sucks. Always has.",
+      "time_iso": "2025-11-09T11:47:35-04:00"
+    },
+    {
+      "user": "sadboy",
+      "text": "@unknownchrisyea @LilNasX i\u2019ve seen that but i also see people like myself still listening in ohio, but people tagging states like iowa that show it\u2019s not available there. it\u2019s like a damn verizon LTE coverage map out here \ud83d\ude2d",
+      "time_iso": "2025-11-09T11:47:24-04:00"
+    },
+    {
+      "user": "Reza Akhavan",
+      "text": "@VerizonSupport Yes.  We have had our landline service for sometime.  I can provide Acct #",
+      "time_iso": "2025-11-09T11:46:35-04:00"
+    },
+    {
+      "user": "Lisa Kays",
+      "text": "Reader: She did not get the shipping confirmation email she was told would come within hours of her asking, yet again, for her router. @Verizon, any help, without me having to spend yet another hour on the phone with you? (This would make my fifth hour so far...)",
+      "time_iso": "2025-11-09T11:41:16-04:00"
+    },
+    {
+      "user": "Roo Loo",
+      "text": "@VZWSupport Other devices in my house have the same issue",
+      "time_iso": "2025-11-09T11:40:07-04:00"
+    },
+    {
+      "user": "\u0280\u028f\u2600\ufe0f\u0274 \u1d20\u1d00\u1d1c\u0262\u029c\u1d00\u0274",
+      "text": "@louis_dirt @Verizon I have zero problems in Paragould right now",
+      "time_iso": "2025-11-09T11:39:26-04:00"
+    },
+    {
+      "user": "MugiMugiMugi \ud83d\udc0c",
+      "text": "I hate verizon, did you guys know they can purposely slow your internet down",
+      "time_iso": "2025-11-09T11:34:34-04:00"
+    },
+    {
+      "user": "BEDBATHN_BNDOVR",
+      "text": "@VerizonSupport  I am the only customer in my local store, been here an hour and these two employees are absolutely clueless. Don\u2019t understand why it takes over an hour to get a new phone",
+      "time_iso": "2025-11-09T11:33:57-04:00"
+    },
+    {
+      "user": "Big Wavv \ud83d\ude9b\ud83d\udcb0\ud83e\udd85",
+      "text": "@jarondeon @itssunkrys My phone company told me it moves slow cause mostly everybody use Verizon satellite which Tmoble n spirt will be faster cause less people under the satellite",
+      "time_iso": "2025-11-09T11:32:44-04:00"
+    },
+    {
+      "user": "HottieKeey\ud83d\udc9c",
+      "text": "Verizon service been real janky",
+      "time_iso": "2025-11-09T11:31:36-04:00"
+    },
+    {
+      "user": "MIKEL \ud83c\udf0a\ud83c\uddec\ud83c\uddfe",
+      "text": "lmfao yeah okay you want me to believe that your company 'Generated over $2 million in annual gross revenue from Verizon' yet your website's looks pretty **** and links don't work...",
+      "time_iso": "2025-11-09T11:30:15-04:00"
+    },
+    {
+      "user": "Sugoi Summit",
+      "text": "Just so everyone knows @TMobile is an absolute garbage phone service with garbage reception for no ****** reason. Just go to @Verizon",
+      "time_iso": "2025-11-09T11:26:54-04:00"
+    },
+    {
+      "user": "Jaclyn_P\u00e0ssaro",
+      "text": "@Verizon your customer service SUCKS",
+      "time_iso": "2025-11-09T11:22:29-04:00",
+      "location": "Los Angeles, California"
+    },
+    {
+      "user": "Wanda",
+      "text": "@Apple Technical Support team you never saw this day coming I told you it would Mat:18:06 Mark 9:42 Lule 17:1-2 \nWell this is Wanda Galloza the one you told the other Technical from Verizon how to hack me .\nGod is Good",
+      "time_iso": "2025-11-09T11:20:58-04:00"
+    },
+    {
+      "user": "hannah",
+      "text": "@VZWSupport @brittisfruity Nobody has had reliable service with y\u2019all in about 2 years. Get yalls **** together",
+      "time_iso": "2025-11-09T11:19:55-04:00"
+    },
+    {
+      "user": "Mackenzie Wilcox",
+      "text": "Verizon is down or something",
+      "time_iso": "2025-11-09T11:19:29-04:00"
+    },
+    {
+      "user": "Resident Ronald J. Thump",
+      "text": "@GMA @Verizon @TheAcademy Hollywood is dead. Nobody wants to watch those Pedos. Enjoy bad ratings #Oscars",
+      "time_iso": "2025-11-09T11:15:17-04:00"
+    },
+    {
+      "user": "Amanda Dziedzinski",
+      "text": "Verizon or Apple.. WHY do incoming calls never come through. \ud83d\ude24 Really frustrating when doctors offices don\u2019t do in person visits and they have to be over the phone",
+      "time_iso": "2025-11-09T11:13:59-04:00"
+    },
+    {
+      "user": "@bohemianglytz #independent",
+      "text": "@VZWSupport I\u2019m asking as a security professional that likes to warn the public about potential security problems. Just trying to understand the technical reasons as to why this could happen and rule out and cybersecurity problems. This is not specific to my account as already noted. Thanks.",
+      "time_iso": "2025-11-09T11:11:57-04:00"
+    },
+    {
+      "user": "Jake Exotic \ud83d\udc05\ud83d\udcb5\ud83d\udcff",
+      "text": "So Wordpress bought Tumblr off of Verizon after Verizon took insane L\u2019s on it because they\u2019re managed by I assume the dumbest people ever, and word press can fix it, but instead keep it as its tortured existence and dumpy nonsensical life. A space exists for 2010-2012 Tumblr.",
+      "time_iso": "2025-11-09T11:11:34-04:00"
+    },
+    {
+      "user": "THAT GIRL\ud83d\udc85\ud83c\udffc",
+      "text": "Is Verizon cell towers down or something cause my phone has been acting crazy all dayyy\ud83d\ude29",
+      "time_iso": "2025-11-09T11:07:37-04:00"
+    },
+    {
+      "user": "@bohemianglytz #independent",
+      "text": "@VZWSupport I\u2019m sure you\u2019ve seen this in the past because I see it in your support forums. Was just looking for information about what has caused it in the past, as it seems to not be an isolated case. Thanks",
+      "time_iso": "2025-11-09T11:06:13-04:00"
+    },
+    {
+      "user": "Staying Dangerous\ud83d\ude2c",
+      "text": "Iono if it's the area my partments in or verizon but da service connection trash Wi-Fi too",
+      "time_iso": "2025-11-09T11:06:12-04:00"
+    },
+    {
+      "user": "Jason Morgan",
+      "text": "@VZWSupport I\u2019ve had issues with it since I switched last November. And it happens most often when I go inside. Or outside. Or drive places. Or don\u2019t drive places.",
+      "time_iso": "2025-11-09T11:05:57-04:00"
+    },
+    {
+      "user": "gilbert morrow",
+      "text": "@Verizon Yeah, Verizon keeps customers in the dark by supplying slow Internet in the rural areas.",
+      "time_iso": "2025-11-09T11:05:07-04:00"
+    },
+    {
+      "user": "Jason Morgan",
+      "text": "@VZWSupport It\u2019s a fun adventure game all over SoCal I like to play where I get wildly inconsistent service that seems to have no correlation to the number of bars or if it\u2019s LTE, 5G, or UW and then I tweet about it - you guys respond - but nothing actually changes. It\u2019s a hoot.",
+      "time_iso": "2025-11-09T11:01:12-04:00"
+    }
+  ],
+  "company_posts": [
+    {
+      "url": "https://x.com/VerizonSupport/status/1987530972544336033",
+      "name": "Verizon Support",
+      "reply_context": "Replying to @dieselfinger",
+      "text": "Three months is far too long to be dealing with a billing concern, and I would be happy to take a look into this to help find a resolution. Please send us a DM to get started. -Joseph https://t.co/LmWSJoFfjh",
+      "timestamp": "2025-11-09T09:41:25-04:00"
+    },
+    {
+      "url": "https://x.com/VerizonSupport/status/1987530500462755974",
+      "name": "Verizon Support",
+      "reply_context": "Replying to @EnergyWiZard369",
+      "text": "We're here to help. We can take a look at your concern. Send us a DM.  ~Peter",
+      "timestamp": "2025-11-09T09:39:32-04:00"
+    },
+    {
+      "url": "https://x.com/VerizonSupport/status/1987520807799533716",
+      "name": "Verizon Support",
+      "reply_context": "Replying to @LittleEngine24",
+      "text": "We want to make sure you get the help you need. Send us a DM so we can assist.  ~Peter",
+      "timestamp": "2025-11-09T09:01:01-04:00"
+    }
+  ],
+  "last_15_days_status": [
+    {
+      "location": "Philadelphia, PA",
+      "reports": 152
+    },
+    {
+      "location": "New York City, NY",
+      "reports": 145
+    },
+    {
+      "location": "Chicago, IL",
+      "reports": 99
+    },
+    {
+      "location": "Los Angeles, CA",
+      "reports": 98
+    },
+    {
+      "location": "Atlanta, GA",
+      "reports": 71
+    },
+    {
+      "location": "Oklahoma City, OK",
+      "reports": 56
+    },
+    {
+      "location": "Washington, D.C., DC",
+      "reports": 55
+    },
+    {
+      "location": "Brooklyn, NY",
+      "reports": 54
+    },
+    {
+      "location": "Phoenix, AZ",
+      "reports": 51
+    },
+    {
+      "location": "Las Vegas, NV",
+      "reports": 46
+    },
+    {
+      "location": "Dallas, TX",
+      "reports": 46
+    },
+    {
+      "location": "Ashburn, VA",
+      "reports": 44
+    },
+    {
+      "location": "Seattle, WA",
+      "reports": 44
+    },
+    {
+      "location": "Charlotte, NC",
+      "reports": 42
+    },
+    {
+      "location": "Boston, MA",
+      "reports": 36
+    },
+    {
+      "location": "Nashville, TN",
+      "reports": 36
+    },
+    {
+      "location": "Tulsa, OK",
+      "reports": 36
+    },
+    {
+      "location": "Sacramento, CA",
+      "reports": 36
+    },
+    {
+      "location": "Reston, VA",
+      "reports": 32
+    },
+    {
+      "location": "Baltimore, MD",
+      "reports": 30
+    },
+    {
+      "location": "Edmond, OK",
+      "reports": 29
+    },
+    {
+      "location": "Minneapolis, MN",
+      "reports": 28
+    },
+    {
+      "location": "Richmond, VA",
+      "reports": 27
+    },
+    {
+      "location": "Detroit, MI",
+      "reports": 26
+    },
+    {
+      "location": "Denver, CO",
+      "reports": 25
+    },
+    {
+      "location": "Buffalo, NY",
+      "reports": 25
+    },
+    {
+      "location": "Columbus, OH",
+      "reports": 25
+    },
+    {
+      "location": "Arlington, VA",
+      "reports": 23
+    },
+    {
+      "location": "Alexandria, VA",
+      "reports": 23
+    },
+    {
+      "location": "Tucson, AZ",
+      "reports": 22
+    }
+  ]
+}

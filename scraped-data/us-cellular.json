@@ -1,0 +1,374 @@
+{
+  "star_rating": {
+    "current": "2.58 out of 5",
+    "count": "3,135 ratings"
+  },
+  "chart": {
+    "chart_ts": "134071635000000000",
+    "image_src": "https://itsdcdn.com/us/charts/chartsvg/740/370/134071635000000000/0507852b-1a5a-4e8b-b2c0-fc2a574603c2.svg",
+    "alt_time": "11/09/2025 12:05"
+  },
+  "most_reported_problems": [
+    {
+      "label": "Internet",
+      "percent": 44
+    },
+    {
+      "label": "Phone",
+      "percent": 40
+    },
+    {
+      "label": "Wi-fi",
+      "percent": 7
+    },
+    {
+      "label": "Total Blackout",
+      "percent": 5
+    },
+    {
+      "label": "E-mail",
+      "percent": 2
+    },
+    {
+      "label": "TV(%)",
+      "percent": null
+    }
+  ],
+  "latest_reports": [
+    {
+      "city": "Ankeny",
+      "reason": "Internet",
+      "time_human": "15 hours ago",
+      "time_iso": "2025-11-08T20:45:54-04:00"
+    },
+    {
+      "city": "Charlotte",
+      "reason": "Internet",
+      "time_human": "2 days ago",
+      "time_iso": "2025-11-07T13:58:06-04:00"
+    },
+    {
+      "city": "Milan",
+      "reason": "Phone",
+      "time_human": "2 days ago",
+      "time_iso": "2025-11-07T12:12:09-04:00"
+    },
+    {
+      "city": "San Jose",
+      "reason": "Internet",
+      "time_human": "2 days ago",
+      "time_iso": "2025-11-06T20:50:23-04:00"
+    },
+    {
+      "city": "Cedar Rapids",
+      "reason": "Phone",
+      "time_human": "3 days ago",
+      "time_iso": "2025-11-05T15:37:17-04:00"
+    },
+    {
+      "city": "Tulsa",
+      "reason": "Phone",
+      "time_human": "3 days ago",
+      "time_iso": "2025-11-05T14:41:20-04:00"
+    }
+  ],
+  "issues_reports": [
+    {
+      "user": "Faith",
+      "text": "@SunnyAsh_ @UScellular @UScellularCares Pretty sad when my Straight Talk signal blows US Cellular out of the water.",
+      "time_iso": "2025-11-09T11:57:08-04:00"
+    },
+    {
+      "user": "NWS",
+      "text": "@Jeremy_LaKosh @UScellular was banking on 5G being the upsell to gain 500,000+ new subscribers. Its why they dumped their cash load into \"modernizing\" their network. The problem however was, they modernized the wrong thing that was holding them back. 1/4",
+      "time_iso": "2025-11-09T11:49:30-04:00"
+    },
+    {
+      "user": "NWS",
+      "text": "Sooo... @UScellular has promised this area investment since 2009. \n\nThey haven't invested a penny since 2005. Date entered market in (). \n\nVerizon- 600-800Mbps Down, 90-115Mbps Up (2022)\n\nUScellular - 3-8Mbps Down, 0.6Mbps Up (1995)\n\nAT&T- 250-300Mbps Down, 40-60Mbps Up (2021)",
+      "time_iso": "2025-11-09T11:49:27-04:00"
+    },
+    {
+      "user": "Robert Kelley",
+      "text": "@UScellular Call 1 Samsung told me they would replace the phone, referred me to their service center who said nothing is wrong\". Now the screen doesn't work, they say they will fix/not replace but don't have parts.",
+      "time_iso": "2025-11-09T11:46:39-04:00"
+    },
+    {
+      "user": "NWS",
+      "text": "@peter_adderton @mobileXus I had that issue with @UScellular at the Missouri State Fair in 2016. Nothing would work and I wasn't even 1,000ft from the tower and in a city of over 22,000 people. I was on their premium post-paid plan too which wasn't ever depri'd no matter how much you used.",
+      "time_iso": "2025-11-09T11:46:24-04:00"
+    },
+    {
+      "user": "NWS",
+      "text": "@holman1124 @SBrandonBand The reason I say that is this- I haven't used a single Kb of data on @UScellular this billing cycle. Yet they are billing me $32/mo for it despite not offering the service they claim. \n\nI'm paying Verizon (Visible+) $45/mo and getting what I am paying for.",
+      "time_iso": "2025-11-09T11:45:06-04:00"
+    },
+    {
+      "user": "Chris Goodall",
+      "text": "@UScellular why is it that I am constantly having issues with your network? It is getting old.",
+      "time_iso": "2025-11-09T11:44:47-04:00"
+    },
+    {
+      "user": "NWS",
+      "text": "Long time engineers that had been with the company for 10+ years warned LT in 2020 that the number 1 complaint customers had with USC was coverage. UScellular is still operating on an 11-12 mile tower grid while the big 3 have moved to a 5.5-6 mile tower grid.  2/4",
+      "time_iso": "2025-11-09T11:43:48-04:00"
+    },
+    {
+      "user": "Lakesha Moore",
+      "text": "@UScellular  THIEVES. I normally pay my prepaid service in advance. I decided to switch to @Verizon   When I cancelled with @UScellular they processed my refund of $80. Now that I have switched which is before my next billing cycle they denied my refund since account is closed",
+      "time_iso": "2025-11-09T11:42:10-04:00"
+    },
+    {
+      "user": "NWS",
+      "text": "in turn lead to worsening financial conditions which will lead to even less network investment. \n\nI used to spend nearly $450/mo on UScellular. Now less than $180 as the plans were downgraded due to a lying agent in Jan 23. My primary line is now a Verizon Visible+ line. 4/4",
+      "time_iso": "2025-11-09T11:39:25-04:00"
+    },
+    {
+      "user": "Gregory Hansel",
+      "text": "@UScellular @CaitlinClark22 How about you fix my ******* connection \ud83d\udc99",
+      "time_iso": "2025-11-09T11:36:01-04:00"
+    },
+    {
+      "user": "Sunny",
+      "text": "@_ChrisGoodall @UScellular AMEN! Not sure where you are, but  here in IL, we have the same issue. They told us the 1 bar was the best we could expect. We've had them 27 yrs, they WERE the best, not anymore. I was told I could buy a booster for a better signal. SERIOUSLY? @UScellularCares ? BULL \ud83d\udca9",
+      "time_iso": "2025-11-09T11:33:58-04:00"
+    },
+    {
+      "user": "Prymalfury",
+      "text": "If your cell phone time is off you will have to manually set it. Especially if you use 2FA authentication. Automatically having your phone use the network time may not be working ATM. #OneToadPhotography @UScellular",
+      "time_iso": "2025-11-09T11:33:47-04:00",
+      "location": "City of Janesville, Wisconsin"
+    },
+    {
+      "user": "Chris Goodall",
+      "text": "@UScellular why is it that I am constantly having trouble out of your network now? It is getting old.",
+      "time_iso": "2025-11-09T11:28:29-04:00"
+    },
+    {
+      "user": "Scott E",
+      "text": "@UScellular I'm not very satisfied with the lack of concern your engineering department had when it comes to finding network downfalls. I was also expecting a call back from the original person I spoke with at Tier 2 tech support.",
+      "time_iso": "2025-11-09T11:28:26-04:00"
+    },
+    {
+      "user": "D\ud83d\udc8b",
+      "text": "@UScellular It\u2019s every single day. Maine has the worst service!",
+      "time_iso": "2025-11-09T11:27:00-04:00"
+    },
+    {
+      "user": "Pack Daddy | Packernet Podcast",
+      "text": "@UScellular Can you help me say the words US Cellular fluidly in a sentence without sounding like a bumbling idiot?",
+      "time_iso": "2025-11-09T11:26:36-04:00"
+    },
+    {
+      "user": "\ud83c\udf38Vee S.C \ud83c\udf3a",
+      "text": "@UScellular I want to know exactly what my monthly bill will be.  I do not want to be paying as much as I did with TMobile.  So help me out",
+      "time_iso": "2025-11-09T11:26:25-04:00"
+    },
+    {
+      "user": "Chris Goodall",
+      "text": "@UScellular why is it that I am constantly having issues out of your network? It is getting really old?",
+      "time_iso": "2025-11-09T11:26:19-04:00"
+    },
+    {
+      "user": "Brit\ud83d\udda4",
+      "text": "Now texts aren\u2019t going through and calls are dropping left & right. This isn\u2019t just my phone or plan, it\u2019s everyone I know using @UScellular in my area. Plz don\u2019t have me call tech. There\u2019s a bigger issue",
+      "time_iso": "2025-11-09T11:23:36-04:00"
+    },
+    {
+      "user": "Jake Esau",
+      "text": "Where I live, there's no @UScellular coverage so my phone operates entirely on the @TMobile network. I use a Google Pixel 5a which I purchased through Fi for $9/mo for two years, which is actually quite a good deal.",
+      "time_iso": "2025-11-09T11:21:05-04:00"
+    },
+    {
+      "user": "$Tristan$ \ud83e\udd2b\ud83d\ude36\u200d\ud83c\udf2b\ufe0f",
+      "text": "I\u2019m nothing but mad with @UScellular my roaming works better then actual service does! I\u2019m currently in downtown Waterville with 5g towers! I can\u2019t wait to pay off my phone and be done! I\u2019m switching to T-Mobile",
+      "time_iso": "2025-11-09T11:20:29-04:00",
+      "location": "City of Waterville, Maine"
+    },
+    {
+      "user": "Sunny",
+      "text": "RUN don't walk away from @UScellular ! They will bleed even a 83 yr old disabled veteran and 27 yr customer dry! They expect you to live with a signal so low your phone is nearly useless or buy a signal booster.. SERIOUSLY? @UScellularCares ? I SAY BULL! Want to know more?",
+      "time_iso": "2025-11-09T11:14:44-04:00"
+    },
+    {
+      "user": "Chris Goodall",
+      "text": "@UScellular I\u2019m in your area. I am at home where I always am. My service is terrible here now and it used to be the best around here. My power went out at my house the other day and apparently so did my cell service\u2026. again. My AT&T work phone still worked fine. This is a problem.",
+      "time_iso": "2025-11-09T11:13:46-04:00"
+    },
+    {
+      "user": "Scott E",
+      "text": "@Flyordie209 @UScellular They told me 3-4 dropped calls a day is normal for a VoLTE network. Also their data is slow, but engineering does not seem to think none of this is an issue.",
+      "time_iso": "2025-11-09T11:08:24-04:00"
+    },
+    {
+      "user": "Macy Leatherwood\u2693\ufe0f",
+      "text": "@UScellularCares @UScellular please tell me why I am constantly dropping calls or calls not going through in the middle of the city I live in? Service has been going downhill since forever. I don\u2019t even have service at my house! Do better please.",
+      "time_iso": "2025-11-09T11:04:54-04:00"
+    },
+    {
+      "user": "Lakesha Moore",
+      "text": "@UScellular @UScellularCares don\u2019t pay your account in advance on your prepaid cause they will not refund.  Even though I canceled my service before the next billing cycle. She gone tell me they have a Use or Loose Policy.  TF!!!",
+      "time_iso": "2025-11-09T11:04:25-04:00"
+    },
+    {
+      "user": "As I see it",
+      "text": "Don't get @UScellular. We have 5 lines & apps and websites won't recognize the #s as valid. Twitter, Capital One, many others. Been thru layers of support, they say it's the website or apps problem. Yet it is the same for every # and many apps. Will have to switch carriers.",
+      "time_iso": "2025-11-09T11:03:45-04:00"
+    },
+    {
+      "user": "D\ud83d\udc8b",
+      "text": "Why do I even bother to try to call people? I have **** service everywhere. @UScellular you suck",
+      "time_iso": "2025-11-09T11:03:27-04:00"
+    },
+    {
+      "user": "Lakesha Moore",
+      "text": "@UScellular why you want return my money. Why have it sitting in an account I will never use again. Thieves I cancelled my prepaid services refund my my balance",
+      "time_iso": "2025-11-09T11:01:30-04:00"
+    }
+  ],
+  "company_posts": [
+    {
+      "url": "https://x.com/UScellularCares/status/1526593481082281984",
+      "name": "UScellular",
+      "reply_context": null,
+      "text": "@IamCharmanie We hear you! Your experience is important. If the frustration boils over, feel free to DM us your zip code at @uscellular, we\u2019d be happy to look up our coverage in your area. ^AP",
+      "timestamp": "2022-05-17T12:00:23-04:00"
+    },
+    {
+      "url": "https://x.com/UScellularCares/status/1526332125473083392",
+      "name": "UScellular",
+      "reply_context": "Replying to @lonewolf67401",
+      "text": "Hi Lonewolf67401. We don't want to lose you after all this time. What did they say when you call? ^DKM",
+      "timestamp": "2022-05-16T18:41:51-04:00"
+    },
+    {
+      "url": "https://x.com/UScellularCares/status/1526220762587222016",
+      "name": "UScellular",
+      "reply_context": "Replying to @FullLipGoddess",
+      "text": "@__ForeverEbony We hear you! Your experience is important, and I am sorry to see this. If the frustration boils over, feel free to DM us at @uscellular! We can check our coverage in your area if you would like. Take care! ^AP",
+      "timestamp": "2022-05-16T11:19:20-04:00"
+    }
+  ],
+  "last_15_days_status": [
+    {
+      "location": "Cedar Rapids, IA",
+      "reports": 24
+    },
+    {
+      "location": "Madison, WI",
+      "reports": 10
+    },
+    {
+      "location": "Charlotte, NC",
+      "reports": 5
+    },
+    {
+      "location": "Chicago, IL",
+      "reports": 4
+    },
+    {
+      "location": "Minneapolis, MN",
+      "reports": 3
+    },
+    {
+      "location": "Waverly, IA",
+      "reports": 3
+    },
+    {
+      "location": "Milwaukee, WI",
+      "reports": 2
+    },
+    {
+      "location": "Peoria, IL",
+      "reports": 2
+    },
+    {
+      "location": "Sun Prairie, WI",
+      "reports": 2
+    },
+    {
+      "location": "Lewiston, ME",
+      "reports": 2
+    },
+    {
+      "location": "Ankeny, IA",
+      "reports": 1
+    },
+    {
+      "location": "Milan, IL",
+      "reports": 1
+    },
+    {
+      "location": "San Jose, CA",
+      "reports": 1
+    },
+    {
+      "location": "Tulsa, OK",
+      "reports": 1
+    },
+    {
+      "location": "Platteville, WI",
+      "reports": 1
+    },
+    {
+      "location": "Hopkinsville, KY",
+      "reports": 1
+    },
+    {
+      "location": "Oliver Springs, TN",
+      "reports": 1
+    },
+    {
+      "location": "Lincoln City, OR",
+      "reports": 1
+    },
+    {
+      "location": "La Salle, IL",
+      "reports": 1
+    },
+    {
+      "location": "Peru, IL",
+      "reports": 1
+    },
+    {
+      "location": "Bloomington, IL",
+      "reports": 1
+    },
+    {
+      "location": "Lakeview, OR",
+      "reports": 1
+    },
+    {
+      "location": "Omaha, NE",
+      "reports": 1
+    },
+    {
+      "location": "West Branch, IA",
+      "reports": 1
+    },
+    {
+      "location": "Saint Albans, WV",
+      "reports": 1
+    },
+    {
+      "location": "Newberg, OR",
+      "reports": 1
+    },
+    {
+      "location": "Fox River Grove, IL",
+      "reports": 1
+    },
+    {
+      "location": "Stevens Point, WI",
+      "reports": 1
+    },
+    {
+      "location": "San Diego, CA",
+      "reports": 1
+    },
+    {
+      "location": "Whitewater, WI",
+      "reports": 1
+    }
+  ]
+}

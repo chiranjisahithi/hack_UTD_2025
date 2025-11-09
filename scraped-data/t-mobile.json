@@ -1,0 +1,374 @@
+{
+  "star_rating": {
+    "current": "2.58 out of 5",
+    "count": "72,771 ratings"
+  },
+  "chart": {
+    "chart_ts": "134071551000000000",
+    "image_src": "https://itsdcdn.com/us/charts/chartsvg/740/370/134071551000000000/D7B81605-B71B-4964-A423-6A1400E390C0.svg",
+    "alt_time": "11/09/2025 09:45"
+  },
+  "most_reported_problems": [
+    {
+      "label": "Internet",
+      "percent": 43
+    },
+    {
+      "label": "Phone",
+      "percent": 31
+    },
+    {
+      "label": "Total Blackout",
+      "percent": 11
+    },
+    {
+      "label": "Wi-fi",
+      "percent": 9
+    },
+    {
+      "label": "E-mail",
+      "percent": 3
+    },
+    {
+      "label": "TV",
+      "percent": 1
+    }
+  ],
+  "latest_reports": [
+    {
+      "city": "Eatonville",
+      "reason": "Phone",
+      "time_human": "2 minutes ago",
+      "time_iso": "2025-11-09T09:40:05-04:00"
+    },
+    {
+      "city": "Steubenville",
+      "reason": "Internet",
+      "time_human": "43 minutes ago",
+      "time_iso": "2025-11-09T08:58:21-04:00"
+    },
+    {
+      "city": "Washington, D.C.",
+      "reason": "Internet",
+      "time_human": "an hour ago",
+      "time_iso": "2025-11-09T08:18:13-04:00"
+    },
+    {
+      "city": "Federal Way",
+      "reason": "Internet",
+      "time_human": "an hour ago",
+      "time_iso": "2025-11-09T08:18:05-04:00"
+    },
+    {
+      "city": "Cedar Hill",
+      "reason": "Total Blackout",
+      "time_human": "4 hours ago",
+      "time_iso": "2025-11-09T04:55:36-04:00"
+    },
+    {
+      "city": "Cedar Hill",
+      "reason": "Total Blackout",
+      "time_human": "6 hours ago",
+      "time_iso": "2025-11-09T02:52:13-04:00"
+    }
+  ],
+  "issues_reports": [
+    {
+      "user": "MREteam",
+      "text": "@VZWSupport Been through this already. It\u2019s only been 31 days of back and forth with you guys and yet no one can manage to simply do their job. It\u2019s nothing but lie after lie, transfer after transfer. Hey @TMobile and @ATT which one of you guys have better customer service?",
+      "time_iso": "2025-11-09T09:40:20-04:00"
+    },
+    {
+      "user": "PotvinsCups \ud83d\ude07",
+      "text": "Dear @TMobile \n\nHow does your in store reps NOT put in any promo's given the day a new account is created so when one has an issue the next rep can help ? What a joke. @Verizon is gonna get a call from me now.",
+      "time_iso": "2025-11-09T09:38:17-04:00"
+    },
+    {
+      "user": "#DRSGME",
+      "text": ".@TMobile just had the strangest outage from 4 - 420 PM \u2026 anyone else? #Tmobile",
+      "time_iso": "2025-11-09T09:38:16-04:00"
+    },
+    {
+      "user": "DENISE.",
+      "text": "my service is getting worse by the day, T-mobile i hate you with my entire soul",
+      "time_iso": "2025-11-09T09:37:45-04:00"
+    },
+    {
+      "user": "JLev Gaming \ud83c\udfae\ud83c\udfae\ud83c\udfae\ud83c\udfae",
+      "text": "Hey @TMobile  why is my internet not working ? I can send and receive calls and texts but no internet without wifi?",
+      "time_iso": "2025-11-09T09:36:54-04:00"
+    },
+    {
+      "user": "myrac",
+      "text": "@TMobileHelp Signal didn\u2019t come back til I left the reservation area so I couldn\u2019t respond",
+      "time_iso": "2025-11-09T09:36:35-04:00"
+    },
+    {
+      "user": "The Don Dodda\ud83d\udde3",
+      "text": "**** T-Mobile I\u2019m going to Verizon \ud83e\udd1f\ud83c\udffe",
+      "time_iso": "2025-11-09T09:34:24-04:00"
+    },
+    {
+      "user": "Mike Chowla",
+      "text": "I had assumed that years after eSIM came out it would be simpler to move carriers.  Apparently, T-Mobile can\u2019t activate a line without a physical SIM card.  It\u2019s beyond dumb that they have to ship me a physical SIM card.  Waste of their money and a poor customer experience .",
+      "time_iso": "2025-11-09T09:29:25-04:00"
+    },
+    {
+      "user": "Get vaccinated! \u270d\ud83c\udffcDonnaB \ud83c\uddfa\ud83c\uddf8",
+      "text": "@TMobileHelp Thanks for the help Eric. But, here's the skinny - don't let them talk you into anything that you don't want to do. No migration of service is needed, now. Push back and tell them what you want or don't want. Be your best advocate and fight for yourself, save yourself $$.",
+      "time_iso": "2025-11-09T09:28:28-04:00"
+    },
+    {
+      "user": "Anthony Ervin",
+      "text": "@TMobile you suck. I wish you never took over Sprint",
+      "time_iso": "2025-11-09T09:27:45-04:00"
+    },
+    {
+      "user": "Brian Anderson",
+      "text": "I'll be unsubscribing from the un-carrier... @TMobile was great until my recent inquiry to upgrade. I was told twice that I qualify for a promotion; now they've informed me that I need to pay full price. I'd rather cancel service and start over elsewhere!",
+      "time_iso": "2025-11-09T09:25:25-04:00"
+    },
+    {
+      "user": "Top of the foodchain",
+      "text": "@TMobileHelp @TMobile I would really like a setting that sends Scam Likely calls directly to my voice mail. Please make finding this solution this someone's full time job.",
+      "time_iso": "2025-11-09T09:25:12-04:00"
+    },
+    {
+      "user": "Nerda More",
+      "text": "@TMobile So glad to have switched to your service after reading about @ATT funding far right drivel. #tmobile",
+      "time_iso": "2025-11-09T09:21:06-04:00"
+    },
+    {
+      "user": "ChrissyApple \ud83c\udf4e",
+      "text": "@SKTV_ Oh, @TMobileHelp is just gonna have you reset your network settings and/or turn off your 5g \ud83d\ude12",
+      "time_iso": "2025-11-09T09:21:01-04:00"
+    },
+    {
+      "user": "FCG CEO \u26f9\ud83c\udffe\u200d\u2642\ufe0f",
+      "text": "T-Mobile & Dis Slow *** Data I\u2019m Finna Sue @TMobile",
+      "time_iso": "2025-11-09T09:20:58-04:00"
+    },
+    {
+      "user": "pawpawseetoh",
+      "text": "@TMobileHelp hello ... Can you help me activate a new Sim card for a current line on my account?",
+      "time_iso": "2025-11-09T09:20:24-04:00",
+      "location": "Los Angeles, California"
+    },
+    {
+      "user": "\ud83c\uddf3\ud83c\uddecThe Grande Dame",
+      "text": "I try to give quarterly lump sums. Like I\u2019ll put 300/400 on T-Mobile and know I don\u2019t gotta deal with them for months. Y\u2019all login to those portals every month?! I smoke too much to remember that lol",
+      "time_iso": "2025-11-09T09:16:23-04:00"
+    },
+    {
+      "user": "SHOTSBYCONCRETE",
+      "text": "Wtf going on with T-Mobile",
+      "time_iso": "2025-11-09T09:08:52-04:00"
+    },
+    {
+      "user": "PotvinsCups \ud83d\ude07",
+      "text": "Dear @TMobile \n\nHow does your in store reps NOT put in any promo's given the day a new account is created so when one has an issue the next rep can help ? What a joke, @VZWSupport is gonna get a call from me now.",
+      "time_iso": "2025-11-09T09:04:17-04:00"
+    },
+    {
+      "user": "Oregano Bae",
+      "text": "@TMobileHelp @NevilleRay I just talked to someone in my DMs. Basically said we don't have any plans for your area. Been with you guys for almost 15 years. About to switch for more reliable service. I'm in KC where you just inherited an entire campus and a football stadium. No service there either. Trash.",
+      "time_iso": "2025-11-09T09:00:08-04:00"
+    },
+    {
+      "user": "Linda HD",
+      "text": "@TMobileHelp im on 2 bars of services 24/7 any help?",
+      "time_iso": "2025-11-09T08:59:58-04:00"
+    },
+    {
+      "user": "miguel diaz",
+      "text": "@TMobile run me my **** I ordered it last week!!!",
+      "time_iso": "2025-11-09T08:51:08-04:00",
+      "location": "Austin, Texas"
+    },
+    {
+      "user": "Irving  Eskenazi",
+      "text": "@TMobile Hi guys just wondering if there's some type of problem in the Palm Beach/Boca area been getting dialup speeds most of the day?",
+      "time_iso": "2025-11-09T08:50:02-04:00"
+    },
+    {
+      "user": "Darrin Giossi",
+      "text": "I used to think all networks were the same but damn @TMobile you're slow.  Slower than @Verizon. Like everything you get what you pay for.  I get a cheaper plan I get slower signal service, the circle of life",
+      "time_iso": "2025-11-09T08:49:49-04:00"
+    },
+    {
+      "user": "Mike Chowla",
+      "text": "@TMobileHelp Is it true that it's impossible to activate a phone on eSIM?  Customer service has spent the last hour telling that.  And that I have wait 3 days for a physical SIM to be shipped because it's not possible for me to pick up one from a T-Mobile store.",
+      "time_iso": "2025-11-09T08:49:17-04:00"
+    },
+    {
+      "user": "\ud83d\udc25",
+      "text": "I regularly talk **** about T-Mobile users for funsies, but ever since the last time I made fun of a T-Mobile user like a month ago I\u2019ve had terrible wifi connectivity & signal literally every day",
+      "time_iso": "2025-11-09T08:45:00-04:00"
+    },
+    {
+      "user": "Timothy lee",
+      "text": "@TMobile How bout you switch over to a better customer service experience. You take my money for the watch series 7. Estimated ship 10/11-10/18. Call on 10-18 and no idea when the watches will ship. Hmmm here\u2019s a clue communicate that to all that ordered one. Nightmare",
+      "time_iso": "2025-11-09T08:44:05-04:00"
+    },
+    {
+      "user": "Edwin Aguirre",
+      "text": "**** T-MOBILE IM CHANGING TO VERSION @TMobileBusiness",
+      "time_iso": "2025-11-09T08:42:41-04:00"
+    },
+    {
+      "user": "Patricia Conard",
+      "text": "@TMobile We\u2019re having trouble logging into your website.",
+      "time_iso": "2025-11-09T08:42:18-04:00"
+    },
+    {
+      "user": "Royce Ardery",
+      "text": "@TMobile had a small problem with my bill was able to call in and get it corrected very easily you guys are so much better to work with than sprint was thank you for taking them over and fixing things...",
+      "time_iso": "2025-11-09T08:41:10-04:00"
+    }
+  ],
+  "company_posts": [
+    {
+      "url": "https://x.com/TMobileHelp/status/1987502637240226293",
+      "name": "T-Mobile Help",
+      "reply_context": "Replying to @McQuade30FPS",
+      "text": "Hi. I'm confident we can help you get connected while traveling internationally. Let's start here: https://t.co/lPgj2dMFn9. Please DM us where you're traveling and more about what's going on with your connection. We'll quickly find a resolution to stay connected. ^SharonBaca",
+      "timestamp": "2025-11-09T07:48:49-04:00"
+    },
+    {
+      "url": "https://x.com/TMobileHelp/status/1987501850979946859",
+      "name": "T-Mobile Help",
+      "reply_context": "Replying to @Lastmedic",
+      "text": "We can help with any device issues you're experiencing and make sure you have a working phone. Please DM us with your device IMEI, more about what's happening with your phone and account information. We'll work together to find the best solution for you to stay. ^SharonBaca",
+      "timestamp": "2025-11-09T07:45:41-04:00"
+    },
+    {
+      "url": "https://x.com/TMobileHelp/status/1987500899044909347",
+      "name": "T-Mobile Help",
+      "reply_context": "Replying to @Lastmedic",
+      "text": "Hi, I'm positive I can help you with your service or account questions right now and turn this around so you don't have to return your phones. Please DM us with more details about what's happening, device IMEI, and account info. We'll work fast to find a resolution. ^SharonBaca",
+      "timestamp": "2025-11-09T07:41:54-04:00"
+    }
+  ],
+  "last_15_days_status": [
+    {
+      "location": "Cedar Hill, TX",
+      "reports": 145
+    },
+    {
+      "location": "Chicago, IL",
+      "reports": 141
+    },
+    {
+      "location": "Seattle, WA",
+      "reports": 133
+    },
+    {
+      "location": "Minneapolis, MN",
+      "reports": 119
+    },
+    {
+      "location": "Dallas, TX",
+      "reports": 110
+    },
+    {
+      "location": "Atlanta, GA",
+      "reports": 92
+    },
+    {
+      "location": "Houston, TX",
+      "reports": 84
+    },
+    {
+      "location": "Charlotte, NC",
+      "reports": 82
+    },
+    {
+      "location": "Sacramento, CA",
+      "reports": 80
+    },
+    {
+      "location": "Eastpointe, MI",
+      "reports": 78
+    },
+    {
+      "location": "Los Angeles, CA",
+      "reports": 74
+    },
+    {
+      "location": "New York City, NY",
+      "reports": 63
+    },
+    {
+      "location": "Detroit, MI",
+      "reports": 62
+    },
+    {
+      "location": "Oklahoma City, OK",
+      "reports": 61
+    },
+    {
+      "location": "Philadelphia, PA",
+      "reports": 59
+    },
+    {
+      "location": "Orlando, FL",
+      "reports": 55
+    },
+    {
+      "location": "Pittsburgh, PA",
+      "reports": 45
+    },
+    {
+      "location": "St. Louis, MO",
+      "reports": 45
+    },
+    {
+      "location": "Memphis, TN",
+      "reports": 44
+    },
+    {
+      "location": "Jacksonville, FL",
+      "reports": 41
+    },
+    {
+      "location": "Austin, TX",
+      "reports": 39
+    },
+    {
+      "location": "Denver, CO",
+      "reports": 37
+    },
+    {
+      "location": "Phoenix, AZ",
+      "reports": 36
+    },
+    {
+      "location": "Indianapolis, IN",
+      "reports": 36
+    },
+    {
+      "location": "San Antonio, TX",
+      "reports": 35
+    },
+    {
+      "location": "San Leandro, CA",
+      "reports": 34
+    },
+    {
+      "location": "Portland, OR",
+      "reports": 34
+    },
+    {
+      "location": "Kansas City, MO",
+      "reports": 33
+    },
+    {
+      "location": "Ashburn, VA",
+      "reports": 31
+    },
+    {
+      "location": "Birmingham, AL",
+      "reports": 31
+    }
+  ]
+}

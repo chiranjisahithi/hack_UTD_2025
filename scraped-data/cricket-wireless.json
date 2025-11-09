@@ -1,0 +1,372 @@
+{
+  "star_rating": {
+    "current": "3.08 out of 5",
+    "count": "7,167 ratings"
+  },
+  "chart": {
+    "chart_ts": "134071635000000000",
+    "image_src": "https://itsdcdn.com/us/charts/chartsvg/740/370/134071635000000000/1f7f5bb1-01de-4ae1-a268-2b78b8ea84fd.svg",
+    "alt_time": "11/09/2025 12:05"
+  },
+  "most_reported_problems": [
+    {
+      "label": "Phone",
+      "percent": 63
+    },
+    {
+      "label": "Internet",
+      "percent": 21
+    },
+    {
+      "label": "Total Blackout",
+      "percent": 8
+    },
+    {
+      "label": "Wi-fi",
+      "percent": 4
+    },
+    {
+      "label": "E-mail",
+      "percent": 3
+    },
+    {
+      "label": "TV",
+      "percent": 1
+    }
+  ],
+  "latest_reports": [
+    {
+      "city": "Rochester",
+      "reason": "Phone",
+      "time_human": "50 minutes ago",
+      "time_iso": "2025-11-09T11:14:15-04:00"
+    },
+    {
+      "city": "Phoenix",
+      "reason": "Total Blackout",
+      "time_human": "5 hours ago",
+      "time_iso": "2025-11-09T07:04:21-04:00"
+    },
+    {
+      "city": "Los Angeles",
+      "reason": "Phone",
+      "time_human": "18 hours ago",
+      "time_iso": "2025-11-08T17:41:07-04:00"
+    },
+    {
+      "city": "Grand Junction",
+      "reason": "Phone",
+      "time_human": "20 hours ago",
+      "time_iso": "2025-11-08T15:45:20-04:00"
+    },
+    {
+      "city": "Memphis",
+      "reason": "Phone",
+      "time_human": "21 hours ago",
+      "time_iso": "2025-11-08T14:42:27-04:00"
+    },
+    {
+      "city": "North Royalton",
+      "reason": "Internet",
+      "time_human": "2 days ago",
+      "time_iso": "2025-11-07T22:20:18-04:00"
+    }
+  ],
+  "issues_reports": [
+    {
+      "user": "Alyssa (i love Michael Myers)\ud83d\udd2a\ud83c\udf83",
+      "text": "@Cricketnation It\u2019s sad how I explained my situation and y\u2019all can\u2019t help me out. I know metro PCS would\u2019ve done it for their customers. I will be switching first thing tomorrow. X",
+      "time_iso": "2025-11-09T12:02:22-04:00"
+    },
+    {
+      "user": "Me Pasaron El Dato",
+      "text": "@JonMichaelBirt @Cricketnation @Visible I understand. Went once has a issue with a service and it\u2019s not resolved by the provider, there will be frustration.",
+      "time_iso": "2025-11-09T12:01:51-04:00"
+    },
+    {
+      "user": "ONLY 1 ME",
+      "text": "@Cricketnation my money was took from me I paid my bridge payment over the phone through the automatic system last night I took my last $25 to keep my phone  now they cut it off customer service won't help I been a good customer this aint fair i might have to switch carriers #ATT",
+      "time_iso": "2025-11-09T11:58:18-04:00"
+    },
+    {
+      "user": "Im Dabz \u30a4\u30e0\u30c0\u30d6\u30b9",
+      "text": "@CricketSupport How do I get my $15 back from the reactivation fee you charged me.. Charged my account a day early and didn't get funds, cut off autopay same day, said you tried to pull it the day of but couldn't since you deleted info but never messaged me until the day after..",
+      "time_iso": "2025-11-09T11:56:38-04:00"
+    },
+    {
+      "user": "Bryan Ngati",
+      "text": "@CricketSupport internet not working",
+      "time_iso": "2025-11-09T11:55:51-04:00"
+    },
+    {
+      "user": "Victor P\u2122\u00a9",
+      "text": "@nguyenkvvn @Cricketnation Just pop the SIM card in and you shouldn\u2019t have any issues. Since the Key2 uses android OS and not blackberry OS. You don\u2019t need that special blackberry plan to use data.",
+      "time_iso": "2025-11-09T11:54:26-04:00"
+    },
+    {
+      "user": "chocolate velvette",
+      "text": "@AlyssaMyers93 @Cricketnation Cricket said they have a right to take two payments for one month and not provide services. Part of the money returned to me for service not provided.",
+      "time_iso": "2025-11-09T11:53:25-04:00"
+    },
+    {
+      "user": "Alyssa (i love Michael Myers)\ud83d\udd2a\ud83c\udf83",
+      "text": "@chocolatevelv @Cricketnation And that\u2019s cause metro PCS  help their customers when it comes to things like this. Especially explaining I\u2019m disabled and sick so I can\u2019t be dealing with all of this. They didn\u2019t care.",
+      "time_iso": "2025-11-09T11:53:10-04:00"
+    },
+    {
+      "user": "DESSY",
+      "text": "@CricketSupport i got charged for service i dont have?",
+      "time_iso": "2025-11-09T11:50:02-04:00"
+    },
+    {
+      "user": "Alyssa (i love Michael Myers)\ud83d\udd2a\ud83c\udf83",
+      "text": "@chocolatevelv @Cricketnation That\u2019s so sad. And yes you\u2019re right; they\u2019re so rude. I understand if I wanted to change my number just because, but I kept getting sooo many calls id block about 20 numbers a day so I wanted to know if they can change is at no cost as a one time courtesy and nope they didn\u2019t.",
+      "time_iso": "2025-11-09T11:44:34-04:00"
+    },
+    {
+      "user": "Mike Malone",
+      "text": "Anybody that is considering using  Cricket Wireless @Cricketnation needs to think again. They are banning from their network phones that despite supporting VoLTE they have decided to cut off their network. An obvious attempt to boost device sales. Just say No to Cricket Wireless!",
+      "time_iso": "2025-11-09T11:42:06-04:00"
+    },
+    {
+      "user": "00MEAT",
+      "text": "@nguyenkvvn @Cricketnation Yep, sorry, I think Tello resells sprint network usage.",
+      "time_iso": "2025-11-09T11:40:45-04:00"
+    },
+    {
+      "user": "Alyssa (i love Michael Myers)\ud83d\udd2a\ud83c\udf83",
+      "text": "@Cricketnation No never. This is so sad how u guys can\u2019t change my phone number. I only wanna change it because im disabled & I keep getting unwanted calls & text messages & y\u2019all can\u2019t change my number? That\u2019s ridiculous. I will NEVER recommend cricket to anybody. I\u2019m switching in the morning.",
+      "time_iso": "2025-11-09T11:39:10-04:00"
+    },
+    {
+      "user": "DESSY",
+      "text": "@Cricketnation i need a email or some one who can help me",
+      "time_iso": "2025-11-09T11:32:44-04:00"
+    },
+    {
+      "user": "An American Devil",
+      "text": "For real @Cricketnation \nYour going to network lock my byod then tell me its impossible for you to unlock it then when i call Samsung they tell me you're the only ones with the code and you don't share your codes",
+      "time_iso": "2025-11-09T11:29:07-04:00"
+    },
+    {
+      "user": "Mr. Bumpy's Big Igloo",
+      "text": "@nguyenkvvn @Cricketnation Is there a way to mask or bruteforce a phone onto a network?",
+      "time_iso": "2025-11-09T11:27:28-04:00"
+    },
+    {
+      "user": "chocolate velvette",
+      "text": "@AlyssaMyers93 @Cricketnation That\u2019s a big no no, you can\u2019t charge anyone for services you do not provide. Mind you I kept letting them know I have an at risk missing child, and my health is a high emergency. My Dr can\u2019t call me I have to have surgery. I paid my bill, no service Wow cricket that\u2019s criminal",
+      "time_iso": "2025-11-09T11:21:49-04:00"
+    },
+    {
+      "user": "Jon-Michael Birt",
+      "text": "@paradelaramon @Cricketnation @Visible Then they said they would have an update in a certain time. Days went by after that and no response. Just poor service across the board. I\u2019m sure people have positive experiences with them as I was one of them.",
+      "time_iso": "2025-11-09T11:20:23-04:00"
+    },
+    {
+      "user": "chocolate velvette",
+      "text": "@AlyssaMyers93 @Cricketnation Most of the employees are disrespectful, inconsiderate, and rude including supervisors. They challenge everything you say to justify how they wrong you. I paid full month of service they turned of my phone said I didn\u2019t keep a bridge payment I never signed up for.",
+      "time_iso": "2025-11-09T11:18:53-04:00"
+    },
+    {
+      "user": "Alyssa (i love Michael Myers)\ud83d\udd2a\ud83c\udf83",
+      "text": "@chocolatevelv @Cricketnation Wow I\u2019m so sorry to hear that. That is so ridiculous @Cricketnation is the worst!!! I pray everything gets better for you, the best thing to do would be to switch and never pay them a dollar anymore. That\u2019s my plan.",
+      "time_iso": "2025-11-09T11:18:20-04:00"
+    },
+    {
+      "user": "Roger NI Gordon",
+      "text": "@Cricketnation Twitter advertiser.  Bad.  Blocking.",
+      "time_iso": "2025-11-09T11:18:09-04:00"
+    },
+    {
+      "user": "Me Pasaron El Dato",
+      "text": "@JonMichaelBirt @Cricketnation @Visible I have been with them for 15 months never had any problems, for 25 bucks, best option at the moment hands down.",
+      "time_iso": "2025-11-09T11:16:00-04:00"
+    },
+    {
+      "user": "chocolate velvette",
+      "text": "@Cricketnation I will never refer anyone to cricket. Most of employees are rude, disrespectful, and inconsiderate. Demanding that I pay you twice for service that I already paid for. You suspended my service after payment was already received. Is this a scam please explain and correct the issue",
+      "time_iso": "2025-11-09T11:14:33-04:00"
+    },
+    {
+      "user": "Alyssa (i love Michael Myers)\ud83d\udd2a\ud83c\udf83",
+      "text": "@chocolatevelv @Cricketnation Oh nooooo you don\u2019t pay them NOTHING fake that money and switch to another provider. These people are horrible I can\u2019t believe that",
+      "time_iso": "2025-11-09T11:12:36-04:00"
+    },
+    {
+      "user": "Pamela Doherty",
+      "text": "@LeighEHolland @AsurionCares @Cricketnation Good to know but they never charged my card so good luck to them, shoddy process for sure",
+      "time_iso": "2025-11-09T11:12:28-04:00"
+    },
+    {
+      "user": "00MEAT",
+      "text": "@nguyenkvvn @Cricketnation If you're looking for another carrier, I've had good experience with Tello, they are really cheap, I pay about 14 bucks a month for service, you may want to see if they support your phone. It should be noted that it is very rarely that I will endorse any company.",
+      "time_iso": "2025-11-09T11:11:00-04:00"
+    },
+    {
+      "user": "Jon-Michael Birt",
+      "text": "@paradelaramon @Cricketnation @Visible Don\u2019t do it! Their tech support is the worst I\u2019ve ever experienced",
+      "time_iso": "2025-11-09T11:09:46-04:00"
+    },
+    {
+      "user": "krishnavamsi Varigonda",
+      "text": "@MichaelVaughan @RaviShastriOfc @imVkohli The only problem Indian cricket has is selecting a proper playing11 from the squad, some times even 15 also will not be correctly selected, barring that we can achieve anything hopefully team management+selectors keep it in mind atleast from now #India #CricketNation",
+      "time_iso": "2025-11-09T11:09:01-04:00"
+    },
+    {
+      "user": "Rodney Marois",
+      "text": "@Cricketnation Do U serve Canada Ontario for phone and service ??",
+      "time_iso": "2025-11-09T11:07:43-04:00"
+    },
+    {
+      "user": "chocolate velvette",
+      "text": "@AlyssaMyers93 @Cricketnation To add to my situation can\u2019t wrap my mind around dishonesty. My monthly service paid for. They still suspended service and demand I pay for my service twice. Negating the money was paid. Rep laughed at me tells me I have to pay again tell my bank to give my money back to them",
+      "time_iso": "2025-11-09T11:06:10-04:00"
+    }
+  ],
+  "company_posts": [
+    {
+      "url": "https://x.com/CricketSupport/status/1987532963035091248",
+      "name": "Cricket Support",
+      "reply_context": "Replying to @thetishbite01",
+      "text": "Hi there! Please send us a direct message with more details about your concern. We\u2019d be happy to help you. \ud83d\udc4d",
+      "timestamp": "2025-11-09T09:49:19-04:00"
+    },
+    {
+      "url": "https://x.com/CricketSupport/status/1987221966504198583",
+      "name": "Cricket Support",
+      "reply_context": "Replying to @Ladi_E_Luv",
+      "text": "We\u2019d be happy to take a closer look into this for you. Please send us a DM with your Cricket phone number so that we can assist you further.",
+      "timestamp": "2025-11-08T13:13:32-04:00"
+    },
+    {
+      "url": "https://x.com/CricketSupport/status/1986546129270341973",
+      "name": "Cricket Support",
+      "reply_context": "Replying to @ericvelarde7",
+      "text": "This is definitely not the experience which we want you to have. Please send us a private message so that we can assist you further. We want to help you and will be waiting to hear back from you.",
+      "timestamp": "2025-11-06T16:28:00-04:00"
+    }
+  ],
+  "last_15_days_status": [
+    {
+      "location": "Pittsburgh, PA",
+      "reports": 7
+    },
+    {
+      "location": "Houston, TX",
+      "reports": 7
+    },
+    {
+      "location": "Chicago, IL",
+      "reports": 5
+    },
+    {
+      "location": "Charlotte, NC",
+      "reports": 4
+    },
+    {
+      "location": "Louisville, KY",
+      "reports": 4
+    },
+    {
+      "location": "Dallas, TX",
+      "reports": 4
+    },
+    {
+      "location": "New York City, NY",
+      "reports": 4
+    },
+    {
+      "location": "Crystal City, TX",
+      "reports": 4
+    },
+    {
+      "location": "Atlanta, GA",
+      "reports": 4
+    },
+    {
+      "location": "Saint Paul, MN",
+      "reports": 3
+    },
+    {
+      "location": "Tampa, FL",
+      "reports": 3
+    },
+    {
+      "location": "Reston, VA",
+      "reports": 3
+    },
+    {
+      "location": "San Antonio, TX",
+      "reports": 3
+    },
+    {
+      "location": "Portland, OR",
+      "reports": 3
+    },
+    {
+      "location": "Denver, CO",
+      "reports": 3
+    },
+    {
+      "location": "Kissimmee, FL",
+      "reports": 3
+    },
+    {
+      "location": "Seattle, WA",
+      "reports": 3
+    },
+    {
+      "location": "Andalusia, AL",
+      "reports": 3
+    },
+    {
+      "location": "Phoenix, AZ",
+      "reports": 2
+    },
+    {
+      "location": "Upland, CA",
+      "reports": 2
+    },
+    {
+      "location": "Katy, TX",
+      "reports": 2
+    },
+    {
+      "location": "Albany, NY",
+      "reports": 2
+    },
+    {
+      "location": "Washington, IN",
+      "reports": 2
+    },
+    {
+      "location": "Butler, PA",
+      "reports": 2
+    },
+    {
+      "location": "Odessa, TX",
+      "reports": 2
+    },
+    {
+      "location": "Rockport, TX",
+      "reports": 2
+    },
+    {
+      "location": "Hempstead, NY",
+      "reports": 2
+    },
+    {
+      "location": "Omaha, NE",
+      "reports": 2
+    },
+    {
+      "location": "Marquette, MI",
+      "reports": 2
+    },
+    {
+      "location": "Paragould, AR",
+      "reports": 2
+    }
+  ]
+}
