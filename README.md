@@ -4,7 +4,7 @@ Real-time telecommunications outage monitoring dashboard with provider compariso
 
 ## System Workflow
 
-![System Workflow](./images/workflow1.png)
+![System Workflow](./workflow1.png)
 
 ## Tech Stack
 
@@ -72,3 +72,4 @@ python main.py
 - Python 3.12+
 - Node.js 18+
 - OpenAI API key (for analysis features)
+
