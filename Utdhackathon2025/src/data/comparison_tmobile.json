@@ -1,0 +1,171 @@
+{
+  "baseline": "T-Mobile",
+  "tmobile": {
+    "star_rating": 2.58,
+    "total_reports": 1798,
+    "locations": 30,
+    "total_blackout_pct": 11,
+    "internet_pct": 43,
+    "phone_pct": 31
+  },
+  "providers": [
+    {
+      "name": "Verizon",
+      "star_rating": 2.47,
+      "total_reports": 1311,
+      "locations": 26,
+      "total_blackout_pct": 7,
+      "internet_pct": 27,
+      "phone_pct": 53,
+      "better_than_tmobile": [
+        "total_reports",
+        "locations",
+        "total_blackout_pct",
+        "internet_pct"
+      ],
+      "worse_than_tmobile": [
+        "star_rating",
+        "phone_pct"
+      ],
+      "reasoning": "Verizon has fewer reports, locations, lower blackout and internet issues, but lower star rating and higher phone problems compared to T-Mobile."
+    },
+    {
+      "name": "att",
+      "star_rating": 2.42,
+      "total_reports": 2274,
+      "locations": 31,
+      "total_blackout_pct": 5,
+      "internet_pct": 45,
+      "phone_pct": 33,
+      "better_than_tmobile": [
+        "total_blackout_pct"
+      ],
+      "worse_than_tmobile": [
+        "star_rating",
+        "total_reports",
+        "locations",
+        "internet_pct",
+        "phone_pct"
+      ],
+      "reasoning": "att has lower blackout percentage but worse star rating, higher reports, more locations, and higher internet issues."
+    },
+    {
+      "name": "US-Cellular",
+      "star_rating": 2.58,
+      "total_reports": 79,
+      "locations": 33,
+      "total_blackout_pct": 5,
+      "internet_pct": 44,
+      "phone_pct": 40,
+      "better_than_tmobile": [
+        "total_reports",
+        "total_blackout_pct"
+      ],
+      "worse_than_tmobile": [
+        "locations",
+        "internet_pct",
+        "phone_pct"
+      ],
+      "reasoning": "Same star rating but fewer reports and blackouts, though more locations and higher internet/phone issues."
+    },
+    {
+      "name": "boost-mobile",
+      "star_rating": 2.29,
+      "total_reports": 118,
+      "locations": 28,
+      "total_blackout_pct": 16,
+      "internet_pct": 11,
+      "phone_pct": 65,
+      "better_than_tmobile": [
+        "total_reports",
+        "locations",
+        "internet_pct"
+      ],
+      "worse_than_tmobile": [
+        "star_rating",
+        "total_blackout_pct",
+        "phone_pct"
+      ],
+      "reasoning": "Better reports and internet, fewer locations, but worse star rating, higher blackouts, and far worse phone issues."
+    },
+    {
+      "name": "cricket-wireless",
+      "star_rating": 3.08,
+      "total_reports": 64,
+      "locations": 18,
+      "total_blackout_pct": 8,
+      "internet_pct": 21,
+      "phone_pct": 63,
+      "better_than_tmobile": [
+        "star_rating",
+        "total_reports",
+        "locations",
+        "total_blackout_pct",
+        "internet_pct"
+      ],
+      "worse_than_tmobile": [
+        "phone_pct"
+      ],
+      "reasoning": "Higher star rating, fewer reports and locations, less blackouts and internet issues, but worse phone problems."
+    },
+    {
+      "name": "charter-communications",
+      "star_rating": 2.29,
+      "total_reports": 10056,
+      "locations": 30,
+      "total_blackout_pct": 9,
+      "internet_pct": 63,
+      "phone_pct": 3,
+      "better_than_tmobile": [
+        "total_blackout_pct",
+        "phone_pct"
+      ],
+      "worse_than_tmobile": [
+        "star_rating",
+        "total_reports",
+        "internet_pct"
+      ],
+      "reasoning": "Lower star rating, extremely high reports, same locations, slightly better blackouts, but much higher internet issues and better phone performance."
+    },
+    {
+      "name": "Frontier",
+      "star_rating": 2.34,
+      "total_reports": 550,
+      "locations": 29,
+      "total_blackout_pct": 8,
+      "internet_pct": 72,
+      "phone_pct": 9,
+      "better_than_tmobile": [
+        "total_reports",
+        "locations",
+        "total_blackout_pct",
+        "phone_pct"
+      ],
+      "worse_than_tmobile": [
+        "star_rating",
+        "internet_pct"
+      ],
+      "reasoning": "Better reports, locations, blackouts, and phone performance, but lower star rating and worse internet."
+    },
+    {
+      "name": "Tracfone-wireless",
+      "star_rating": 2.62,
+      "total_reports": 42,
+      "locations": 42,
+      "total_blackout_pct": 6,
+      "internet_pct": 12,
+      "phone_pct": 73,
+      "better_than_tmobile": [
+        "star_rating",
+        "total_reports",
+        "total_blackout_pct",
+        "internet_pct"
+      ],
+      "worse_than_tmobile": [
+        "locations",
+        "phone_pct"
+      ],
+      "reasoning": "Slightly better star rating, very few reports and blackouts, but significantly more locations and far worse phone issues."
+    }
+  ]
+}

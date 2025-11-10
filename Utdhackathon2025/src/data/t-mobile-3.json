@@ -1,0 +1,204 @@
+{
+  "header": {
+    "provider": "T-Mobile",
+    "status": "major issues",
+    "status_color": "red",
+    "star_rating": 2.58,
+    "rating_count": "72,769 ratings",
+    "total_reports_24h": 6,
+    "last_updated": "2025-11-09T07:27:17-04:00"
+  },
+  "key_metrics": [
+    {
+      "title": "Internet Issues",
+      "value": "43%",
+      "icon": "⚡",
+      "trend": "down",
+      "trend_value": "-5%"
+    },
+    {
+      "title": "Phone Outages",
+      "value": "31%",
+      "icon": "📞",
+      "trend": "stable",
+      "trend_value": "±2%"
+    },
+    {
+      "title": "Total Blackouts",
+      "value": "11%",
+      "icon": "🚨",
+      "trend": "up",
+      "trend_value": "+3%"
+    },
+    {
+      "title": "Wi-fi Problems",
+      "value": "9%",
+      "icon": "📶",
+      "trend": "up",
+      "trend_value": "+4%"
+    },
+    {
+      "title": "Negative Sentiment",
+      "value": "87.5%",
+      "icon": "😠",
+      "trend": "stable",
+      "trend_value": "±1%"
+    }
+  ],
+  "active_outages": [
+    {
+      "city": "Cedar Hill",
+      "reason": "Total Blackout",
+      "time_ago": "2 hours ago",
+      "severity": "high",
+      "timestamp": "2025-11-09T04:55:36-04:00"
+    },
+    {
+      "city": "Cedar Hill",
+      "reason": "Total Blackout",
+      "time_ago": "4 hours ago",
+      "severity": "high",
+      "timestamp": "2025-11-09T02:52:13-04:00"
+    },
+    {
+      "city": "Seattle",
+      "reason": "Wi-fi",
+      "time_ago": "5 hours ago",
+      "severity": "medium",
+      "timestamp": "2025-11-09T02:21:44-04:00"
+    },
+    {
+      "city": "Vienna",
+      "reason": "Phone",
+      "time_ago": "5 hours ago",
+      "severity": "medium",
+      "timestamp": "2025-11-09T02:08:22-04:00"
+    },
+    {
+      "city": "San Leandro",
+      "reason": "Wi-fi",
+      "time_ago": "5 hours ago",
+      "severity": "medium",
+      "timestamp": "2025-11-09T01:38:42-04:00"
+    },
+    {
+      "city": "Scappoose",
+      "reason": "Total Blackout",
+      "time_ago": "7 hours ago",
+      "severity": "high",
+      "timestamp": "2025-11-09T00:29:42-04:00"
+    }
+  ],
+  "problem_distribution": [
+    {"label": "Internet", "percent": 43, "color": "#1f77b4"},
+    {"label": "Phone", "percent": 31, "color": "#ff7f0e"},
+    {"label": "Total Blackout", "percent": 11, "color": "#e33f3f"},
+    {"label": "Wi-fi", "percent": 9, "color": "#ff9900"},
+    {"label": "E-mail", "percent": 3, "color": "#2ca02c"}
+  ],
+  "geographic_hotspots": [
+    {
+      "city": "Cedar Hill",
+      "reports_count": 145,
+      "severity": "high",
+      "top_issue": "Total Blackout"
+    },
+    {
+      "city": "Chicago",
+      "reports_count": 141,
+      "severity": "high",
+      "top_issue": "Internet"
+    },
+    {
+      "city": "Seattle",
+      "reports_count": 133,
+      "severity": "medium",
+      "top_issue": "Wi-fi"
+    }
+  ],
+  "recent_activity": [
+    {
+      "time": "2 hours ago",
+      "city": "Cedar Hill",
+      "issue": "Total Blackout",
+      "timestamp": "2025-11-09T04:55:36-04:00"
+    },
+    {
+      "time": "4 hours ago",
+      "city": "Cedar Hill",
+      "issue": "Total Blackout",
+      "timestamp": "2025-11-09T02:52:13-04:00"
+    },
+    {
+      "time": "5 hours ago",
+      "city": "Seattle",
+      "issue": "Wi-fi",
+      "timestamp": "2025-11-09T02:21:44-04:00"
+    },
+    {
+      "time": "5 hours ago",
+      "city": "Vienna",
+      "issue": "Phone",
+      "timestamp": "2025-11-09T02:08:22-04:00"
+    },
+    {
+      "time": "5 hours ago",
+      "city": "San Leandro",
+      "issue": "Wi-fi",
+      "timestamp": "2025-11-09T01:38:42-04:00"
+    },
+    {
+      "time": "7 hours ago",
+      "city": "Scappoose",
+      "issue": "Total Blackout",
+      "timestamp": "2025-11-09T00:29:42-04:00"
+    }
+  ],
+  "sentiment": {
+    "negative": 87.5,
+    "neutral": 12.5,
+    "positive": 0,
+    "samples": [
+      {
+        "user": "Tina Ruiz",
+        "text": "6 days no data service at all.. still down. Like I said..I mentioned should i go into a store..rep 1 said no..lets trouble shoot this first. 4 days later go to a store..",
+        "tone": "angry",
+        "time_ago": "5 hours ago"
+      },
+      {
+        "user": "Yan Chen",
+        "text": "Someone fraudulently opened 3 lines and purchased 3 iphones under my father's name... No help from T-Mobile.",
+        "tone": "frustrated",
+        "time_ago": "6 hours ago"
+      },
+      {
+        "user": "indyodie",
+        "text": "Don't ever make the mistake I made by switching to @TMobile. The company is a joke...",
+        "tone": "angry",
+        "time_ago": "7 hours ago"
+      },
+      {
+        "user": "TechGooRoo",
+        "text": "I dropped T-Mobile to go Google Fi and I have never looked back.",
+        "tone": "disappointed",
+        "time_ago": "8 hours ago"
+      }
+    ]
+  },
+  "trend_analysis": {
+    "direction": "declining",
+    "description": "Service disruptions have decreased in frequency over the last 24 hours, though peak outage periods remain problematic.",
+    "chart_insights": "The most critical outage cluster occurred between 16:20–17:20 EST with 5 incidents, suggesting system instability during high-traffic periods."
+  },
+  "critical_insights": [
+    "Cedar Hill experiences recurring Total Blackouts, indicating infrastructure failures in that area.",
+    "Negative sentiment is driven by unresolved fraud cases and prolonged service disruptions.",
+    "Late afternoon (15:20–19:20 EST) outages correlate with system overload during peak usage."
+  ],
+  "pain_index": 2.29,
+  "recommendations": [
+    "Immediately dispatch engineers to Cedar Hill to address Total Blackout root causes.",
+    "Enhance fraud detection systems to prevent unauthorized account activities.",
+    "Optimize network capacity during peak hours to reduce late-afternoon outages."
+  ]
+}
